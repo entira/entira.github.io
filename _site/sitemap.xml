@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/about</loc>
-<lastmod>2022-05-07T22:30:08+02:00</lastmod>
+<lastmod>2022-05-08T01:32:56+02:00</lastmod>
 </url>
 <url>
 <loc>/contact</loc>
-<lastmod>2022-05-07T22:30:08+02:00</lastmod>
+<lastmod>2022-05-08T01:32:56+02:00</lastmod>
 </url>
 <url>
 <loc>/movies</loc>
-<lastmod>2022-05-07T22:30:08+02:00</lastmod>
+<lastmod>2022-05-08T01:32:56+02:00</lastmod>
 </url>
 <url>
 <loc>/thanks</loc>
-<lastmod>2022-05-07T22:30:08+02:00</lastmod>
+<lastmod>2022-05-08T01:32:56+02:00</lastmod>
 </url>
 <url>
 <loc>/sk/blog/na-kajaku-cez-tri-hlavne-mesta-1-planovanie/</loc>
@@ -209,6 +209,10 @@
 <lastmod>2020-06-26T22:46:00+02:00</lastmod>
 </url>
 <url>
+<loc>/sk/blog/tag/skladaci-kajak</loc>
+<lastmod>2022-05-07T21:46:00+02:00</lastmod>
+</url>
+<url>
 <loc>/en/blog/sea-kayaking-through-three-capitals-1-planning/</loc>
 <lastmod>2016-08-26T20:02:00+02:00</lastmod>
 </url>
@@ -269,6 +273,9 @@
 </url>
 <url>
 <loc>/sk/blog/page8/</loc>
+</url>
+<url>
+<loc>/sk/blog/page9/</loc>
 </url>
 <url>
 <loc>/assets/map/Maly-Dunaj-Kilometrovnik.pdf</loc>
