@@ -1,0 +1,24 @@
+---
+layout: post
+title: Spoznávanie Srbska na morskom kajaku - 4. časť
+date: 2018-09-03 07:51
+author: patrik
+comments: true
+categories: [danube, donau, Dunaj, dunav, foxo, Hidden, kemping, outdoor, pádlovanie, pes, regata, rieka, Slovenčina, srbsko, tid2018]
+permalink: /sk/blog/spoznavanie-srbska-na-morskom-kajaku-4-cast/
+description: 4.časť seriálu o tom ako som sa dva a pol týždňa túlal so svojim psom Foxom na morskom kajaku po Srbsku a po viac ako 500 kilometroch som sa ocitol až v Bulharsku.
+featured_image: /assets/img/IMG_20180804_061402.jpg
+---
+4.časť seriálu o tom ako som sa dva a pol týždňa túlal so svojim psom Foxom na morskom kajaku po Srbsku a po viac ako 500 kilometroch som sa ocitol až v Bulharsku.
+
+Ráno v Smeredeve začalo zaujímavo. Už ste niekedy hľadali záchod na hrade? Čím väčší a krajší hrad, tým väčšie riziko, že ho nenájdete včas. Dosť dlho som blúdil katakombami, kým som ho našiel. Hľadanie zdroja pitnej vody bol tiež dosť problém. Nevydržal som to a rozobral som sprchu. Následovala cesta do vody. Do prístavu som síce aj tak svojím ťažkým kajakom ísť rovnakou rozbitou cestou, ale nešiel som cez močiar. Prehodil som lano okolo lampy a pomaly kajak spustil dole asi 5 metrov vysokou kamennou hrádzou. Na vode už som bol plný optimizmu. Tešil som sa na Iron Gate.
+
+V diaľke už bolo vidieť vlnité pohorie. Onedlho som už spokojne pádloval údolím. Dunaj už nevyzeral vôbec ako u nás. Namiesto toho oba brehy lemovali skalnaté kopce. Ľavý breh už bol rumunský. Bez toho, že by ste pozerali do mapy, by ste videli rozdiel. Na rozdiel od Srbska, vyzeral veľmi upravene. Veľké domy, reštaurácie, upravené záhrady, veterné turbíny. Bolo vidieť, že Rumunsko má pred Srbskom minimálne dve dekády náskok. Využil som to aj technicky. Manuálne som na svojom telefóne zvolil rumunského operátora, čo mi umožnilo telefonovať v EU roamingu. Mal som aj srbskú sim kartu. Tá však slúžila výhradne na dáta. Minúta hovoru domov by stála 2,5 Eur. Hneď som zavolal domov.
+
+Keď sa Dunaj opäť na chvíľku rozlial v širokej pravouhlej zákrute, vykukli zpoza kopcov čierne búrkové mraky. Tentokrát tomu neuniknem. Rýchlo si obliekam bundu, špricku a zaisťujem všetko pre prípad, že by som plával. Prehodím Foxa do kokpitu a zaťiahnem horko-ťažko veľmi tesnú špricku. Od okamihu, keď som uvidel mraky až po vlny, ktoré ma veselo prelievali, ubehlo naozaj len pár minút. Počul som veľa príbehov o tom, ako Košava dvihne v okamihu vlny a ide do tuhého. K brehu som to mal síce len nejakých 500 metrov, ale vlny ma k nemu nechceli pustiť. Kulisu dotvárali blesky šľahajúce predo mnou do vody. Toto treba zažiť. Neopísateľný pocit, je to všetko neskutočne krásne, ale o živote už nerozhodujete vy.
+
+Lenže ja svoj život nežijem len pre seba. Povedal som si, že k tomu brehu dopádlujem aj keby vypľujem dušu. Tých 500 metrov som išiel viac ako hodinu, ale dopádloval som tam. Ale nemohol som vystúpiť. V tých vlnách by som sa rozbil o skaly. Ale už som bol pokojnejší. Šanca, že tu do mňa trafí blesk, je oveľa menšia. Dôležité bolo, že pri brehu sa dalo pomaličky, ale isto pádlovať vpred. Začal som sa smiať. Búrku som mal nad sebou, ale bol som vysmiaty. Keď som sa priblížil k mestu, ľudia mi kývali, niektorí krútili hlavou. V prístave ma už čakala “moja osobná fotografka” Mona, ktorá ma posledné dni fotila a filmovala. Z Foxa spravila legendu TID2018. Skákala dva metre do výšky od radosti, keď nás uvidela ako sa s Foxom hojdáme v prístave na vlnkách a Foxo si vrtí chvostíkom akoby nič.
+
+Posledné, na čo som sa zmohol, bolo vytiahnuť čln z vody. Bol som taký vyčerpaný, že som nevládal nič. Keď som to rozdýchal, postavil som stan v parku uprostred mesta Veliko Gradište a išiel si zaplávať v Dunaji. Kúsok odo mňa sa varil v obrovskom kotlíku guláš. Vypýtal som Foxovi nejaké kosti. Dostal asi kilo kostí s mäsom. Ja si už po tme dám to, čo v každej srbskej reštaurácii - šopský šalát. Porcia stojí v prepočte asi 50 centrov. Väčšinou mi stačia dve porcie. Už som ho mal asi na 20 rôznych spôsobov. Skúšal som aj srbský šalát. To isté bez syra za dvojnásobok.
+
+To bol deň. Ľahnem do stanu a okamžite zaspím. O chvíľu ma riadne mykne. Skoro mi odfúklo stan. Postavil som si ho len kúsok od stagu na Guitar Feste Veliko Gradište. Hrali až do svitania. Síce som skoro vôbec nespal, ale hrali asi všetky moje obľúbené metalové a rockové songy. Nad ránom nás napadla svorka túlavých psov. Vybehol som zo stanu a väčšina z nich uteká hneď preč. Niečo ako dlhosrstý pitbul však vyštartoval po mne. Kopol by som ho, ale bol som bosí a tak tesne pred záhryzom do mojej nohy dostal dávku slzného plynu. Nevedel som, či to zafunguje, ale vystrelil jak raketa. Cestou ešte narazil do stromu. Snáď sa aspoň trochu vyspím. Snívalo sa mi ako si ho opekám. Fuj. Ráno, keď som si šiel nabrať vodu, som ho stretol ako hľadá zvyšky po ľuďoch, čo boli na Guitar Feste. Bol v pohode, no keď ma zbadal, tak sa hneď rozbehol preč.
