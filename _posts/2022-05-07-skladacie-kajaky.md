@@ -12,7 +12,7 @@ featured_image: /assets/img/coron2020_8.jpg
 Zhrnutie skúseností so skladacími kajakmi. Testovanie rôznych modelov v sladkej i slanej vode. Praktické použitie skladacích kajakov na expedícii na Filipínach. Bazár skladacích kajakov.
 
 <h2>Bazár skladacích kajakov</h2>
-Oba kajaky je možné prenášať v lietadle ako bežnú batožinu.
+Oba kajaky je možné prenášať v lietadle ako bežnú batožinu. Kajaky boli použité len na testovanie a na exedícii na Filipínach. Všetko nájdeš podrobne zdokumentované v článkoch a videách.
 <h3>Nortik Argo I</h3>
 Plnokrvne rýchly expedičný morský skladací kajak.
 
@@ -22,6 +22,8 @@ Plnokrvne rýchly expedičný morský skladací kajak.
 * Váha: 19kg
 
 Klikni sem pre <a href="https://www.faltboot.de/en/products/nortik/nortik-argo/">špecifikáciu</a> priamo od výrobcu.
+
+**Cena:** 1700 €
 
 <h3>Nortik Argo II</h3>
 Dvojmiestny, rýchly, extrémne stabilný, robustný a priestranný skladací morský kajak.
@@ -33,8 +35,9 @@ Dvojmiestny, rýchly, extrémne stabilný, robustný a priestranný skladací mo
 
 Klikni sem pre <a href="https://www.faltboot.de/en/products/nortik/nortik-argo-2/">špecifikáciu</a> priamo od výrobcu.
 
+**Cena:** 2100 Eur
 
-Ak ťa ponuka zaujala, alebo si chceš skladacie kajaky požičať, tak mi neváhaj napísať <a href="mailto:info@danubekayaker.com">email</a>, alebo zavolaj na <a href="tel:00 421 904 272 344">+421-904-272-344</a>. Zastihneš ma aj na <a href="https://signal.org">Signal-e</a> a <a href="https://wa.me/421904272344">WhatsApp-e</a>.
+Ak ťa ponuka zaujala, alebo si chceš skladacie kajaky požičať, tak mi neváhaj napísať <a href="/contact">email</a>, alebo zavolaj na <a href="tel:00 421 904 272 344">+421-904-272-344</a>. Zastihneš ma aj na <a href="https://signal.org">Signal-e</a> a <a href="https://wa.me/421904272344">WhatsApp-e</a>.
 
 ---
 
