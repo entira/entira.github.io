@@ -48,6 +48,8 @@ Ak ťa ponuka zaujala, alebo si chceš skladacie kajaky požičať, tak mi nevá
 * [4. Expedícia na morských kajakoch – Coron Bay, Filipíny 2020 – Vodný svet 1](/sk/blog/4-expedicia-na-morskych-kajakoch-coron-bay-filipiny-2020-vodny-svet-1/)
 * [5. Expedícia na morských kajakoch – Coron Bay, Filipíny 2020 – Vodný svet 2](/sk/blog/5-expedicia-na-morskych-kajakoch-coron-bay-filipiny-2020-vodny-svet-2/)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2rHwlb1EJVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <h2>Testovanie skladacích kajakov Nortik Argo I/II</h2>
 * [Ťažko na cvičisku – ľahko na bojisku](/sk/blog/tazko-na-cvicisku-lahko-na-bojisku)
 
