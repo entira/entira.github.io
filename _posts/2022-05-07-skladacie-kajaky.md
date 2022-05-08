@@ -12,7 +12,7 @@ featured_image: /assets/img/coron2020_8.jpg
 Zhrnutie skúseností so skladacími kajakmi. Testovanie rôznych modelov v sladkej i slanej vode. Praktické použitie skladacích kajakov na expedícii na Filipínach. Bazár skladacích kajakov.
 
 <h2>Bazár skladacích kajakov</h2>
-Oba kajaky je možné prenášať v lietadle ako bežnú batožinu. Kajaky boli použité len na testovanie a na exedícii na Filipínach. Všetko nájdeš podrobne zdokumentované v článkoch a videách.
+Oba kajaky je možné prenášať v lietadle ako bežnú batožinu. Kajaky boli použité len na testovanie a na exedícii na Filipínach. Všetko nájdeš podrobne zdokumentované v článkoch a videách, ktoré nájdeš priamo v tomto článku. Kajaky dodávame aj s hodnotným doplnkovým vybavením.
 <h3>Nortik Argo I</h3>
 Plnokrvne rýchly expedičný morský skladací kajak.
 
