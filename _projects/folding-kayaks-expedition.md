@@ -24,6 +24,8 @@ The next challenge will be to plan the whole expedition. Draw a expedition map, 
     <a href="/contact" class="button button--large">I want to be on the crew list!</a>
 </center>
 
+---
+
 <h2>Fleet</h2>
 
 You can use one of our kayaks or use your own folding kayak.

@@ -12,3 +12,9 @@ Join one of the new coming sea kayak expeditions. Explore remote places on our p
 [Tropical Southeast Asia on skin-on-frame folding sea kayaks / Spring 2023](/project/folding-kayaks-expedition)
 
 ![](/assets/img/silk_orb_spider_dominican_republic.jpg)
+
+---
+<center>
+    <a href="/contact" class="button button--large">Keep me informed about new expeditions. </a>
+</center>
+---
