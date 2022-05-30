@@ -40,3 +40,5 @@ Tento maják je miestnou atrakciou. Bolo tam naozaj veľa ludí, ktorí si ho fo
 Okrem nás bolo na vode niekoľko stoviek jácht. Párkrát sme aj prekrížili cestu pretekov. Celému jazeru dominujú práve jachty, ktoré sú doslova všade. Pri pobreží vidieť tiež iné vodné športy ako napr. windsurfing a kitesurfing. Stretli sme aj pár kajakárov a SUPistov. Kitesurferi nám občas v skrížili cestu v nepríjemnej rýchlosti. Mnoho z nich vyzeralo, že to vôbec nemá pod kontrolou.
 
 I keď krajina vyzerá veľmi monotónne, som rád, že sme sa na jazero boli pozrieť. Bola to zaujímavá skúsenosť. Juh jazera je súčasťou národného parku National Park Neusiedler See-Seewinkel. Raz by som sa tam chcel ísť pozrieť. Na vstup však treba povolenie.
+
+**Neprehliadnite:** [UNESCO v Rakúsku, alebo na stope za svetovým dedičstvom.](https://www.satur.sk/blog/unesco-v-rakusku-alebo-na-stope-za-svetovym-dedicstvom/)
