@@ -1,17 +1,19 @@
 ---
-title: 'Expeditions in 2023'
-subtitle: 'Organizing of non-profit sea kayak expeditions around the world.'
-date: 2022-05-06 00:00:00
-description: Join one of the new coming sea kayak expeditions. Explore remote places on our planet. Experience an adventure in the wild. Challenge yourself. Push your limits. Learn something new. Become a contributing member through your skills and experiences.
-featured_image: '/images/project.jpg'
+title: 'Inside Passage 2023'
+subtitle: 'Paddling the remotest part of the pacific coast of British Colombia on sea kayaks (July 7, 2023 -  August 13, 2023)'
+date: 2023-02-05 00:00:00
+description: Join an upcoming sea kayaking expedition. Explore the remotest places on our planet. Experience an adventure in the true wilderness. Challenge yourself. Push your boundaries. Learn something new. Become a contributing member with your skills and experiences, or support us from home.
+featured_image: '/images/bc-tile.jpg'
 ---
-Join one of the new coming sea kayak expeditions. Explore remote places on our planet. Experience an adventure in the wild. Challenge yourself. Push your limits. Learn something new. Become a contributing member through your skills and experiences.
+Join an upcoming sea kayaking expedition. Explore the remotest places on our planet. Experience an adventure in the true wilderness. Challenge yourself. Push your boundaries. Learn something new. Become a contributing member with your skills and experiences, or support us from home.
 
-<h2>List</h2>
+<h2>Itinerary</h2>
+* Prince Rupert - Port Hardy
+* July 7, 2023 -  August 13, 2023
+* Distance: 600+ km
 
-[Tropical Southeast Asia on skin-on-frame folding sea kayaks / Spring 2023](/project/folding-kayaks-expedition)
 
-![](/assets/img/silk_orb_spider_dominican_republic.jpg)
+![](/images/bc2023-1.jpg)
 
 ---
 <center>
