@@ -8,7 +8,7 @@ featured_image: '/assets/img/coron2020_12.jpg'
 ---
 <h2>Intro</h2>
 
-Join the next adventure on traditional folding kayaks made of modern materials. A whole expedition packed only in backpacks able to reach any place in the world. Paddling among coral reefs, surrounded by tropical rainforest somewhere in Southeast Asia in the spring of 2023.
+Join the next adventure on traditional folding kayaks made of modern materials. A whole expedition packed only in backpacks able to reach any place in the world. Paddling among coral reefs, surrounded by tropical rainforest somewhere in Southeast Asia in the winter 2023 / spring of 2024.
 
 I'm looking for adventurous, experienced paddlers who like challenges. We will try to find and explore places where no one has ever been on a sea kayak before.
 
