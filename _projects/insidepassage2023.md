@@ -19,6 +19,6 @@ Join an upcoming sea kayaking expedition. Explore the remotest places on our pla
 
 ---
 <center>
-    <a href="/contact" class="button button--large">Keep me informed about new expeditions. </a>
+    <a href="/contact" class="button button--large">Keep me informed about this epic expedition. </a>
 </center>
 ---
