@@ -16,6 +16,7 @@ Join an upcoming sea kayaking expedition. Explore the remotest places on our pla
 <a href="https://www.google.com/maps/d/edit?mid=1-Q75nLppT8IQDshor0mT1Hx0S9N_jBk&usp=sharing" target="_blank">
 ![Map](/images/bc2023-1.jpg)
 </a>
+(Click on map to open Google Map in new window.)
 
 ---
 <center>
