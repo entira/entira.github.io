@@ -16,6 +16,8 @@ menu_settings:
       url: '/en/blog'   
     - title: 'Blog (SK)'
       url: '/sk/blog'
+    - title: 'Second-hand'
+      url: '/secondhand'   
     - title: 'About'
       url: '/about'
     - title: 'Contact'

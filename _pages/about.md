@@ -20,4 +20,4 @@ Apart from paddling, I like to run long distances with my dog Foxo, or just wand
 
 Last year I started with sailing. The idea of a floating base for remote sea kayak expeditions has been in my head for a long time. 
 
-I'm an IT consultant for a living. 
+I'm an IT consultant for a living. You can [support me](/secondhand) by buying a used equipments from previous expeditions [here](/secondhand)!

@@ -28,7 +28,7 @@ The next challenge will be to plan the whole expedition. Draw a expedition map, 
 
 <h2>Fleet</h2>
 
-You can use one of our kayaks or use your own folding kayak.
+You can use one of our kayaks or use your own folding kayak. You can also [support us](/secondhand) by buying a folding kayak from previous expeditions [here](/secondhand)! 
 
 ![](/assets/img/coron2020_12.jpg)
 

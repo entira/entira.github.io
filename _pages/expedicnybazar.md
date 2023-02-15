@@ -4,6 +4,26 @@ subtitle: Použité osvedčené vybavenie, ktoré ti môže pomôcť na tvojich 
 description: Ponuka použitého expedičného vybavenia.
 featured_image: /images/about.jpg
 ---
+<div style="text-align: right">
+<a href="/secondhand">English version (EN)</a>
+</div>
+
+<h2>Morské kajaky</h2>
+Morský kajak MELKER ÖRSKÄR.
+<h3>Laminátový trojkajak zo Švédska</h3>
+Kajak pre dvoch až troch pádlerov. Pre dvoch a dieťa, alebo dvoch a batožinu na viacdňové tripy. Ľahko nastaviteľné sedadlá. Kormidlo ovládateľné zo zadného aj stredného kokpitu. Kajak je vo veľmi dobrom stave, používaný hlavne na rodinných výletoch na Dunaji. 
+
+![MELKER ÖRSKÄR](/assets/img/melker.jpg)
+
+* Dĺžka: 586cm
+* Váha: 33kg
+
+Klikni sem pre <a href="https://melkerofsweden.se/products/melker-orskar">špecifikáciu</a> priamo od výrobcu.
+
+**Cena:** 2400 €
+
+---
+
 <h2>Skladacie kajaky so zľavou 50%</h2>
 Oba kajaky je možné prenášať v lietadle ako bežnú batožinu. Kajaky boli použité len na testovanie a na expedícii na Filipínach. Všetko nájdeš podrobne zdokumentované v článkoch a videách, ktoré nájdeš priamo v tomto článku. Kajaky dodávame aj s hodnotným doplnkovým vybavením.
 <h3>Nortik Argo I</h3>
@@ -28,11 +48,11 @@ Dvojmiestny, rýchly, extrémne stabilný, robustný a priestranný skladací mo
 
 Klikni sem pre <a href="https://www.faltboot.de/en/products/nortik/nortik-argo-2/">špecifikáciu</a> priamo od výrobcu.
 
-**Cena:** 1500 Eur
+**Cena:** 1500 €
 
 ---
 
-Ak ťa ponuka zaujala, alebo si chceš skladacie kajaky požičať, tak mi neváhaj napísať <a href="/contact">email</a>, alebo zavolaj na <a href="tel:00 421 904 272 344">+421-904-272-344</a>. Zastihneš ma aj na <a href="https://signal.org">Signal-e</a> a <a href="https://wa.me/421904272344">WhatsApp-e</a>.
+Ak ťa ponuka zaujala, alebo si chceš skladacie kajaky požičať, tak mi neváhaj zavolať na <a href="tel:00 421 904 272 344">+421-904-272-344</a>. Zastihneš ma aj na <a href="https://signal.org">Signal-e</a> a <a href="https://wa.me/421904272344">WhatsApp-e</a>.
 
 ---
 

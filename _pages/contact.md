@@ -9,3 +9,5 @@ You can reach me on social networks or just call me on <a href="tel:00 421 904 2
 ![Bora Wind Rider](/assets/img/rideontheborawind.jpg)
 
 You can reach me on social networks or just call me on <a href="tel:00 421 904 272 344">+421-904-272-344</a>. I also use <a href="https://signal.org">Signal</a> and <a href="https://wa.me/421904272344">WhatsApp</a>.
+
+You can also [support me](/secondhand) by buying a folding kayak from previous expeditions [here](/secondhand)!
