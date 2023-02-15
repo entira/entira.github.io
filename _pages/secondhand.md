@@ -47,7 +47,7 @@ Two-seater, fast, extremely stable, durable and spacious folding sea kayak.
 
 Click here for <a href="https://www.faltboot.de/en/products/nortik/nortik-argo-2/">full specification</a> by vendor.
 
-* **Price:** 1500 €
+* **Price:** 1600 €
 * **EU shipping:** 100 €
 
 ---

@@ -48,7 +48,7 @@ Dvojmiestny, rýchly, extrémne stabilný, robustný a priestranný skladací mo
 
 Klikni sem pre <a href="https://www.faltboot.de/en/products/nortik/nortik-argo-2/">špecifikáciu</a> priamo od výrobcu.
 
-**Cena:** 1500 €
+**Cena:** 1600 €
 
 ---
 
