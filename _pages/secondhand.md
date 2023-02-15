@@ -51,6 +51,25 @@ Click here for <a href="https://www.faltboot.de/en/products/nortik/nortik-argo-2
 * **EU shipping:** 100 €
 
 ---
+<h2>Ultralight packrafts</h2>
+<h3>Kokopelli Nirvana Self-Bailing</h3>
+Single-seater extremely packable and durable packraft from an American manufacturer designed for wild water. Self-bailing design with no TiZip and no spars - the most reliable design.
+
+![Kokopelli Nirvana Self-Bailing](/assets/img/packraft.jpg)
+
+**Condition:** 4 years old, 100% condition, been on 1 expedition before the pandemic started, 20 days on the water in total.
+
+* Color: Olive Drab Green
+* Length: 229cm
+* Weight: 3,8kg
+* Price: 750€ (original price 1650€)
+* EU shipping: 50 €
+
+More detailed info from:
+* <a href="https://www.systemxeurope.com/products/kokopelli-nirvana-self-bailing">Europe distributor.</a>
+* <a href="https://www.alpinaction.it/si/packrafti/11245-kokopelli-nirvana-self-bailer.html">Another packraft shop.</a>
+
+---
 
 If you are interested in the offer, or if you want to rent a folding kayak, don't hesitate to call me on <a href="tel:00 421 904 272 344">+421-904-272-344</a>. You can reach me also on <a href="https://signal.org">Signal</a> and <a href="https://wa.me/421904272344">WhatsApp</a>.
 

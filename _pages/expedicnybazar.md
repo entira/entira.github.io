@@ -36,7 +36,8 @@ Plnokrvný rýchly expedičný morský skladací kajak.
 
 Klikni sem pre <a href="https://www.faltboot.de/en/products/nortik/nortik-argo/">špecifikáciu</a> priamo od výrobcu.
 
-**Cena:** 1350 €
+* Cena: 1350 €
+* Doprava v EU: 100 €
 
 <h3>Nortik Argo II</h3>
 Dvojmiestny, rýchly, extrémne stabilný, robustný a priestranný skladací morský kajak.
@@ -48,9 +49,28 @@ Dvojmiestny, rýchly, extrémne stabilný, robustný a priestranný skladací mo
 
 Klikni sem pre <a href="https://www.faltboot.de/en/products/nortik/nortik-argo-2/">špecifikáciu</a> priamo od výrobcu.
 
-**Cena:** 1600 €
+* Cena: 1600 €
+* Doprava v EU: 100 €
 
 ---
+
+<h2>Ultraľahké packrafty</h2>
+<h3>Kokopelli Nirvana - Samovylievacia verzia</h3>
+Jednomiestny extrémne spratný a odolný packraft amerického výrobcu určený na divokú vodu. Samovylievacie prevedenie bez T-Zip a bez špricky - najspolahlivejšie prevedenie.
+
+![Kokopelli Nirvana Self-Bailing](/assets/img/packraft.jpg)
+
+**Stav:** 4 roky starý, 100% stav, pred začiatkom pandémie bol na 1 expedícií, dokopy 20 dní na vode.
+
+* Farba: Olive Drab Green
+* Dĺžka: 229cm
+* Váha: 3,8kg
+* Cena: 750€ (pôvodne 1650€)
+* Doprava v EÚ: 50 €
+
+Detailnejšie informácie od:
+* <a href="https://www.systemxeurope.com/products/kokopelli-nirvana-self-bailing">Európsky distribútor</a>
+* <a href="https://www.alpinaction.it/si/packrafti/11245-kokopelli-nirvana-self-bailer.html">Taliansky packraft shop.</a>
 
 Ak ťa ponuka zaujala, alebo si chceš skladacie kajaky požičať, tak mi neváhaj zavolať na <a href="tel:00 421 904 272 344">+421-904-272-344</a>. Zastihneš ma aj na <a href="https://signal.org">Signal-e</a> a <a href="https://wa.me/421904272344">WhatsApp-e</a>.
 
