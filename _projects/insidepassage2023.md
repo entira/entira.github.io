@@ -23,3 +23,5 @@ Join an upcoming sea kayaking expedition. Explore the remotest places on our pla
     <a href="/contact" class="button button--large">Keep me informed about this epic expedition. </a>
 </center>
 ---
+
+You can [support us](/secondhand) by buying a used equipments from previous expeditions [here](/secondhand)!
