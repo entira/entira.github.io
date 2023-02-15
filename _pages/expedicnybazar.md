@@ -4,7 +4,7 @@ subtitle: Použité osvedčené vybavenie, ktoré ti môže pomôcť na tvojich 
 description: Ponuka použitého expedičného vybavenia.
 featured_image: /images/about.jpg
 ---
-<h2>Skladadie kajaky</h2>
+<h2>Skladacie kajaky so zľavou 50%</h2>
 Oba kajaky je možné prenášať v lietadle ako bežnú batožinu. Kajaky boli použité len na testovanie a na expedícii na Filipínach. Všetko nájdeš podrobne zdokumentované v článkoch a videách, ktoré nájdeš priamo v tomto článku. Kajaky dodávame aj s hodnotným doplnkovým vybavením.
 <h3>Nortik Argo I</h3>
 Plnokrvný rýchly expedičný morský skladací kajak.
@@ -16,7 +16,7 @@ Plnokrvný rýchly expedičný morský skladací kajak.
 
 Klikni sem pre <a href="https://www.faltboot.de/en/products/nortik/nortik-argo/">špecifikáciu</a> priamo od výrobcu.
 
-**Cena:** 1700 €
+**Cena:** 1350 €
 
 <h3>Nortik Argo II</h3>
 Dvojmiestny, rýchly, extrémne stabilný, robustný a priestranný skladací morský kajak.
@@ -28,7 +28,7 @@ Dvojmiestny, rýchly, extrémne stabilný, robustný a priestranný skladací mo
 
 Klikni sem pre <a href="https://www.faltboot.de/en/products/nortik/nortik-argo-2/">špecifikáciu</a> priamo od výrobcu.
 
-**Cena:** 2100 Eur
+**Cena:** 1500 Eur
 
 ---
 
