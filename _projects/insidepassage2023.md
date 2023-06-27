@@ -15,7 +15,10 @@ I found the same kayak in our capital city as I will use in Canada. Thanks to th
 
 In a few days, I will move to Ottawa, where I will spend a week with my family. On July 8th I will fly to our first camp in Victoria, British Columbia, where we will all meet for the first time. The first and last time we all met was on an expedition two years ago. We paddled around the Norwegian islands of Lofoten. Even then I knew it wouldn't be the last time. We will be there to check kayaks, food supplies and first "kayak loading" tetris round.
 
+<a href="https://www.youtube.com/watch?v=BV9OnfBjgkk">
 ![](/assets/img/bc2023_team.jpg)
+</a>
+***(Click on photo to play 2021 expedition movie!)***
 
 Then we load the kayaks, gear, and food supplies for the whole expedition into the car and move 500 km north. From there, we will take the ferry another 500 km north to Prince Rupert Island. From here our expedition will continue on sea kayaks. We will have a month to paddle back to Port Hardy without any support through the true wilderness. 
 
