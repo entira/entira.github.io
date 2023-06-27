@@ -24,15 +24,17 @@ Then we load the kayaks, gear, and food supplies for the whole expedition into t
 </a>
 ***(Click on map to open Google Map in new window.)***
 
+---
+**Explore the remotest places on our planet with us. Experience an adventure in the true wilderness. Join our expedition on a live map with a chat option.**
 
 ---
 <center>
     <a href="https://share.garmin.com/danubekayaker" class="button button--large">Join our expedition on a live map with a chat option.</a>
 </center>
 ---
+
 Password:
 ***make earth a better place***
 
-You can also [support us](/secondhand) by buying a used equipments from previous expeditions [here](/secondhand)!
-
-
+---
+You can also [support us](/secondhand) by buying a used equipments from previous expeditions [here](/secondhand)!s
