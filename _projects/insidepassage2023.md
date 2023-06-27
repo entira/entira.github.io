@@ -37,4 +37,4 @@ Password:
 ***make earth a better place***
 
 ---
-You can also [support us](/secondhand) by buying a used equipments from previous expeditions [here](/secondhand)!s
+You can also [support us](/secondhand) by buying a used equipments from previous expeditions [here!](/secondhand)
