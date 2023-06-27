@@ -2,7 +2,7 @@
 title: 'Inside Passage 2023'
 subtitle: 'Epic paddling the remotest part of the pacific coast of British Colombia on sea kayaks begins!'
 date: 2023-06-27 00:10:00
-description: Join an upcoming sea kayaking expedition. Explore the remotest places on our planet. Experience an adventure in the true wilderness. Challenge yourself. Push your limits. Learn something new. Become a contributing member with your skills and experiences, or support us from home.
+description: Explore the remotest places on our planet with us. Experience an adventure in the true wilderness. Join our expedition on a live map with a chat option.
 featured_image: '/images/bc-tile.jpg'
 ---
 I'm finishing up the last tasks on the job. Today I even managed to pack everything into two airline-compliant shipping bags. Hopefully, there won't be a problem with my paddle.
