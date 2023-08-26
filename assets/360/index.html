@@ -19,7 +19,14 @@
 	    const viewer = new PhotoSphereViewer.Viewer({
 		            container: document.querySelector('#viewer'),
 		            panorama: 'https://danubekayaker.com/assets/360/pano.jpg',
+					caption: 'www.danubekayaker.com',
 					plugins: [PhotoSphereViewer.GyroscopePlugin],
+					navbar: [
+        'zoom',
+        'move',
+        'caption',
+        'fullscreen',
+    ],
 		        });
 </script>
 </body>
