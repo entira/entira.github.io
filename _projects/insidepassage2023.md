@@ -6,8 +6,6 @@ description: Explore the remotest places on our planet with us. Experience an ad
 featured_image: '/images/bc-tile.jpg'
 ---
 
-{% include 360/index.html %}
-
 I'm finishing up the last tasks on the job. Today I even managed to pack everything into two airline-compliant shipping bags. Hopefully, there won't be a problem with my paddle.
 
 ![](/assets/img/bc2023_packing.jpeg)
@@ -44,3 +42,7 @@ Password:
 
 ---
 You can also [support us](/secondhand) by buying a used equipments from previous expeditions [here!](/secondhand)
+
+---
+
+{% include 360/index.html %}
