@@ -1,48 +1,32 @@
 ---
-title: 'Inside Passage 2023'
-subtitle: 'Epic paddling the remotest part of the pacific coast of British Colombia on sea kayaks begins!'
-date: 2023-06-27 00:10:00
-description: Explore the remotest places on our planet with us. Experience an adventure in the true wilderness. Join our expedition on a live map with a chat option.
-featured_image: '/images/bc-tile.jpg'
+title: Between Giants and Waves
+subtitle: Sea Kayaking in British Columbia's Untamed Beauty
+date: 2023-09-19 15:46
+description: Dive into the untamed beauty of British Columbia's Great Bear Rainforest, where mountains meet the boundless Pacific. Join me on a month-long sea kayaking odyssey, encountering whales, bears, and the wisdom of indigenous communities. 'Between Giants and Waves' is a tale of wilderness, self-discovery, and unforgettable encounters.
+featured_image: /assets/img/bc2023_01_tile.jpg
 ---
+## Introduction
 
-I'm finishing up the last tasks on the job. Today I even managed to pack everything into two airline-compliant shipping bags. Hopefully, there won't be a problem with my paddle.
+It's been over a month since I returned from Canada, but today marks the beginning of my storytelling journey. I find myself savoring the last moments of summer, cherishing what I missed so dearly. The separation from my family weighed heavily on me, and now, brimming with newfound physical vitality, I'm eager to continue the spirit of adventure on home soil. Reflecting on our recent expedition along the Slovak section of the Danube, from the confluence with the Ipeľ River to the ruins of Devín Castle over an extended holiday weekend, I couldn't help but recall how a stubborn cold kept me sniffling upon my return.
 
-![](/assets/img/bc2023_packing.jpeg)
+![](/assets/img/IMG_5197.jpeg)
 
-I found the same kayak in our capital city as I will use in Canada. Thanks to this I managed to not only test the kayak, but also to make a camera holder, a solar panel with a battery, and GPS navigation, or to modify the cockpit so that I can carry 16 liters of drinking water in it. Thanks to mechanical engineer Karol and sea kayak shop owner Igor from <a href="https://www.kajakshop.sk">kajakshop.sk</a>.
+There's been a lingering hesitation about how to commence this epic tale. There were moments I considered omitting the less pleasant details, but after much contemplation, I resolved that authenticity lies in the unembellished truth. It's a cathartic process for me, and perhaps it'll serve as a compass for your own future adventures. Maybe, even those who played a part in this saga will find insight into my state of mind at the time. Success on this expedition was earned through not only sweat and a touch of blood but also a battle with oneself – the very essence of a genuine adventure.
 
-![](/assets/img/bc2023_kayak.jpeg)
+![](/assets/img/IMG_094535.jpeg)
 
-In a few days, I will move to Ottawa, where I will spend a week with my family. On July 8th I will fly to our first camp in Victoria, British Columbia, where we will all meet for the first time. The first and last time we all met was on an expedition two years ago. We paddled around the Norwegian islands of Lofoten. Even then I knew it wouldn't be the last time. We will be there to check kayaks, food supplies and first "kayak loading" tetris round.
+This narrative chronicles our journey across the North Pacific Ocean, threading through the scarcely inhabited expanse of British Columbia, nestled between the harbors of Prince Rupert and Telegraph Cove – a realm known as the Great Bear Rainforest. Here, colossal mountains and the vast Pacific Ocean converge, where time seems to stand still, bearing scant signs of human touch. Civilization here is woven predominantly by indigenous communities. In the heart of the forests, majestic creatures like bears, wolves, and cougars still reign supreme, while the ocean dances under the rule of whales, seals, and sea otters. Encounters with these inhabitants were truly extraordinary.
 
-<a href="https://www.youtube.com/watch?v=BV9OnfBjgkk">
-![](/assets/img/bc2023_team.jpg)
-</a>
-***(Click on photo to play 2021 expedition movie!)***
+![](/assets/img/IMG_4942.jpeg)
 
-Then we load the kayaks, gear, and food supplies for the whole expedition into the car and move 500 km north. From there, we will take the ferry another 500 km north to Prince Rupert Island. From here our expedition will continue on sea kayaks. We will have a month to paddle back to Port Hardy without any support through the true wilderness. 
+For a full month, we navigated almost 700 kilometers of open sea, charting a course through landscapes I had only ever dreamed of. I was afforded the privilege of stepping into a realm untouched by civilization, to be one with nature for a fleeting moment. Learning from those who've harmonized with nature for millennia, even without the conveniences tucked away in my kayak, was an invaluable experience. Some label such places as infernal, while others deem them paradisiacal. Those who've ventured there, however, understand it to be a fusion of both. Along the way, I encountered individuals whose stories were as improbable as our chance meetings in these far-flung territories.   
 
-<a href="https://www.google.com/maps/d/edit?mid=1-Q75nLppT8IQDshor0mT1Hx0S9N_jBk&usp=sharing" target="_blank">
-![Map](/images/bc2023-1.jpg)
-</a>
-***(Click on map to open Google Map in new window.)***
+![](/assets/img/IMG_082508.jpeg)
 
----
-**Explore the remotest places on our planet with us. Experience an adventure in the true wilderness. Join our expedition on a live map with a chat option.**
+The story, however, will not just be about humility. It will also reveal the corners of human selfishness, egocentrism, stubbornness, misunderstanding, ignorance, contempt and even betrayal. What all can happen when you go to such a place with almost unknown people and ignore your instincts because of the insurmountable call of the wilderness. People like nice stories, but this one won't be like that sometimes. What I can promise you, though, is that in the telling, we'll get to go to some of the most beautiful and remote places on this planet, paddle with whales, meet bears, or realize that encounters with bears have been the less terrifying ones. I have no regrets and hope to do it again soon. The more obstacles along the way, the greater the satisfaction at the finish.
 
----
-<center>
-    <a href="https://share.garmin.com/danubekayaker" class="button button--large">Join our expedition on a live map with a chat option.</a>
-</center>
----
+![](/assets/img/IMG_5509.jpeg)
 
-Password:
-***make earth a better place***
+You'll learn about how the idea to undertake such an expedition came about, the lengthy preparation and objectives, the equally thrilling journey to the start, paddling with the whales, as well as the wisdom I learned there that in turn has raised the bar for future expeditions to a whole new level. How I found myself alone at the edge of the world.
 
----
-You can also [support us](/secondhand) by buying a used equipments from previous expeditions [here!](/secondhand)
-
----
-
-{% include 360/index.html %}
+![](/assets/img/bc2023_map.jpg)
