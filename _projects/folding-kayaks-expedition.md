@@ -2,23 +2,26 @@
 title: 'Expedition: Tropical Southeast Asia Winter 2023 / Spring 2024'
 subtitle: 'Explore the most remote places on Earth on folding sea kayaks.'
 date: 2022-05-16 00:00:00
-description: Join the next adventure on traditional folding kayaks made of modern materials. A whole expedition packed only in backpacks able to reach any place in the world. Paddling among coral reefs, surrounded by tropical rainforest somewhere in Southeast Asia in the winter 2023 / spring of 2024.
+description: Embark on the ultimate adventure with our state-of-the-art folding kayaks, blending tradition with modern materials. Experience the thrill of a fully-packable expedition, ready to conquer any corner of the globe. Navigate through pristine coral reefs, enveloped by the lush tapestry of a Southeast Asian rainforest, slated for winter 2023 and spring 2024. Your journey awaits.
                 
 featured_image: '/assets/img/coron2020_12.jpg'
 ---
-<h2>Intro</h2>
+Embark on an expedition guided by a seasoned sea kayaker, who has journeyed from Arctic waters to the vibrant depths of tropical paradises. From enduring the icy challenges of British Columbia's Great Bear Rainforest to paddling amidst the kaleidoscope of life in Southeast Asia's coral reefs, my competence spans diverse terrains. I've orchestrated international voyages, including the successful circumnavigation of the rugged Lofoten islands. Join me on an upcoming adventure, where traditional folding kayaks, designed for modern exploration, will navigate the warmth of the tropics in 2023 and 2024. This is your chance to be part of an unforgettable, competency-backed expedition.
 
-Join the next adventure on traditional folding kayaks made of modern materials. A whole expedition packed only in backpacks able to reach any place in the world. Paddling among coral reefs, surrounded by tropical rainforest somewhere in Southeast Asia in the winter 2023 / spring of 2024.
+![](/assets/img/coron2020_46.jpg)
 
-I'm looking for adventurous, experienced paddlers who like challenges. We will try to find and explore places where no one has ever been on a sea kayak before.
+Are you an intrepid, seasoned paddler who thrives on conquering new frontiers? If so, we have an extraordinary proposition: together, we'll chart unexplored waters on sea kayaks, venturing where none have ventured before.
 
-The first challenge is to identify such a place and figure out how to get there. I suggest Southeast Asia. I've organized two expeditions here. In Thailand and the Philippines. In the tropics, we don't need almost any clothes or bulky sleeping bags.  It is possible to do longer routes without resupply. We like it longer, more remote and wild. 
+![](/assets/img/coron2020_34.jpg)
 
-The next challenge will be to plan the whole expedition. Draw a expedition map, identify possible water sources, campsites, and all the places we want to explore deeper. Study the local wildlife, habits, culture, and climate. Consider all the risks to be prepared for every eventuality.
+Our inaugural challenge: pinpointing the perfect location and devising a route to reach it. My recommendation? Southeast Asia, a region I've successfully led two expeditions in - one in Thailand, the other in the Philippines. In the tropics, the need for bulky gear diminishes, allowing us to pursue longer, more remote routes with minimal resupply requirements.
 
-**I would especially appreciate a paddler who would like to shoot unique aerial drone footage from the sea and land that would become part of an expedition film.**
+![](/assets/img/20191014_121103.jpg)
 
----
+Once we've settled on our destination, the real work begins. Planning the entire expedition demands meticulous attention. From sketching out a detailed expedition map to identifying potential water sources and optimal campsites, every facet must be meticulously considered. Our mission: to delve deep into uncharted territory, understanding the local ecosystem, customs, culture, and climate. And of course, it goes without saying that we'll be poised for any unforeseen challenges that may arise. This is an adventure for the daring, the curious, and those who thrive on the thrill of the unknown. Are you up for the challenge?
+
+![](/assets/img/20190918_180744.jpg)
+
 
 <center>
     <a href="/contact" class="button button--large">I want to be on the crew list!</a>
