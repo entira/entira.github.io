@@ -1,5 +1,5 @@
 ---
-title: Between Giants and Waves
+title: 'The last expedition: Between Giants and Waves (2023)'
 subtitle: Sea Kayaking in British Columbia's Untamed Beauty
 date: 2023-09-19 15:46
 description: Dive into the untamed beauty of British Columbia's Great Bear Rainforest, where mountains meet the boundless Pacific. Join me on a month-long sea kayaking odyssey, encountering whales, bears, and the wisdom of indigenous communities. 'Between Giants and Waves' is a tale of wilderness, self-discovery, and unforgettable encounters.
