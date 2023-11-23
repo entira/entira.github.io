@@ -4,7 +4,6 @@
 
 <head>
 
-
 	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 	Danube Kayaker
@@ -44,6 +43,19 @@
 	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/solid.js" integrity="sha384-GXi56ipjsBwAe6v5X4xSrVNXGOmpdJYZEEh/0/GqJ3JTHsfDsF8v0YQvZCJYAiGu" crossorigin="anonymous"></script>
 	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/brands.js" integrity="sha384-0inRy4HkP0hJ038ZyfQ4vLl+F4POKbqnaUB6ewmU4dWP0ki8Q27A0VFiVRIpscvL" crossorigin="anonymous"></script>
 	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/fontawesome.js" integrity="sha384-NY6PHjYLP2f+gL3uaVfqUZImmw71ArL9+Roi9o+I4+RBqArA2CfW1sJ1wkABFfPe" crossorigin="anonymous"></script>
+
+	<!-- GeoIP Redirect script https://github.com/OpenAff/geoip-target-filter-->
+	<script>
+		var target = []; // Create a new target Array.
+
+		target.All = "/projects/"; // Redirects Non-targeted / all other visitors to this URL.
+		target.SK  = "/sk/blog/";  // Redirects US Visitors to this URL.
+		target.CZ  = "/sk/blog/";  // Redirects UK Visitors to this URL.
+
+		function geoip(g){window.top.location.href=target[g.country]||target.All}
+	</script>
+			
+	<script src="https://get.geojs.io/v1/ip/country.js?callback=geoip"></script>
 
 	
 	<!-- Custom Styles -->
@@ -91,7 +103,7 @@
 				<ul class="menu__list">
 					
 					<li class="menu__list__item">
-						<a href="/" class="menu__list__item__link">Projects</a>
+						<a href="/projects" class="menu__list__item__link">Projects</a>
 					</li>
 					
 					<li class="menu__list__item">
