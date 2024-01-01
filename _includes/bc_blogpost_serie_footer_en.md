@@ -5,6 +5,7 @@
 </div>
 
 ---
+
 #### Further parts of the series ***Between Giants and Waves***
 
 [1. Sea Kayaking in British Columbia's Untamed Beauty](/en/blog/BetweenGiantsWavesIntroduction/)
