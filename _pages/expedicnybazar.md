@@ -25,7 +25,7 @@ Kajak pre dvoch až troch pádlerov. Pre dvoch a dieťa, alebo dvoch a batožinu
 
 Klikni sem pre <a href="https://melkerofsweden.se/products/melker-orskar">špecifikáciu</a> priamo od výrobcu.
 
-**Cena:** 2400 €
+**Cena:** 2000 €
 
 ---
 
@@ -41,7 +41,7 @@ Plnokrvný rýchly expedičný morský skladací kajak.
 
 Klikni sem pre <a href="https://www.faltboot.de/en/products/nortik/nortik-argo/">špecifikáciu</a> priamo od výrobcu.
 
-* Cena: 1350 €
+* Cena: 1300 €
 * Doprava v EU: 100 €
 
 <h3>Nortik Argo II</h3>
@@ -54,7 +54,7 @@ Dvojmiestny, rýchly, extrémne stabilný, robustný a priestranný skladací mo
 
 Klikni sem pre <a href="https://www.faltboot.de/en/products/nortik/nortik-argo-2/">špecifikáciu</a> priamo od výrobcu.
 
-* Cena: 1600 €
+* Cena: 1450 €
 * Doprava v EU: 100 €
 
 ---
@@ -70,7 +70,7 @@ Jednomiestny extrémne spratný a odolný packraft amerického výrobcu určený
 * Farba: Olive Drab Green
 * Dĺžka: 229cm
 * Váha: 3,8kg
-* Cena: 750€ (pôvodne 1650€)
+* Cena: 600€ (pôvodne 1650€)
 * Doprava v EÚ: 50 €
 
 Detailnejšie informácie od:
