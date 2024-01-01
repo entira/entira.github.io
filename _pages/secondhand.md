@@ -6,8 +6,7 @@ featured_image: /images/about.jpg
 ---
 <div class="fb-share-button"
 	data-href="{{ page.url | absolute_url }}" 
-	data-layout="button_count"
-	style="float: right;">
+	data-layout="button_count">
 </div>
 
 <div style="text-align: right">
@@ -92,3 +91,9 @@ If you are interested in the offer, or if you want to rent a folding kayak, don'
 
 <h2>Testovanie skladacích kajakov Nortik Argo I/II</h2>
 * [Ťažko na cvičisku – ľahko na bojisku](/sk/blog/tazko-na-cvicisku-lahko-na-bojisku)
+
+<div class="fb-share-button"
+	data-href="{{ page.url | absolute_url }}" 
+	data-layout="button_count"
+	style="float: right;">
+</div>

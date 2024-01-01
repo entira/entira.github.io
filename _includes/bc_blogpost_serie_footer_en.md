@@ -4,6 +4,10 @@
     style="float: right;">
 </div>
 
+<div class="fb-comments"
+	data-href="{{ page.url | absolute_url }}"
+	data-numposts="10">
+</div>
 ---
 
 #### Further parts of the series ***Between Giants and Waves***

@@ -6,12 +6,11 @@ featured_image: /images/about.jpg
 ---
 <div class="fb-share-button"
 	data-href="{{ page.url | absolute_url }}" 
-	data-layout="button_count"
-	style="float: right;">
+	data-layout="button_count">
 </div>
 
 <div style="text-align: right">
-<a href="/secondhand">English version (EN)</a>
+    <a href="/secondhand">English version (EN)</a>
 </div>
 
 <h2>Morské kajaky</h2>
@@ -93,3 +92,9 @@ Ak ťa ponuka zaujala, alebo si chceš skladacie kajaky požičať, tak mi nevá
 
 <h2>Testovanie skladacích kajakov Nortik Argo I/II</h2>
 * [Ťažko na cvičisku – ľahko na bojisku](/sk/blog/tazko-na-cvicisku-lahko-na-bojisku)
+
+<div class="fb-share-button"
+	data-href="{{ page.url | absolute_url }}" 
+	data-layout="button_count"
+	style="float: right;">
+</div>
