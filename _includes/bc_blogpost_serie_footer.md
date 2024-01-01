@@ -4,6 +4,8 @@
     style="float: right;">
 </div>
 
+##### Povedz mi svoj názor! Vaše komentáre sú pre mňa dôležité.
+
 <div class="fb-comments"
 	data-href="{{ page.url | absolute_url }}"
 	data-numposts="10">
