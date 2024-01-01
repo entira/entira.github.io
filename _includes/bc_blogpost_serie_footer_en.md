@@ -4,7 +4,7 @@
     style="float: right;">
 </div>
 
-##### hare Your Thoughts! Your Comments Matter to Me.
+##### Share Your Thoughts! Your Comments Matter to Me.
 
 <div class="fb-comments"
 	data-href="{{ page.url | absolute_url }}"
