@@ -4,6 +4,12 @@ subtitle: Použité osvedčené vybavenie, ktoré ti môže pomôcť na tvojich 
 description: Ponuka použitého expedičného vybavenia.
 featured_image: /images/about.jpg
 ---
+<div class="fb-share-button"
+	data-href="{{ page.url | absolute_url }}" 
+	data-layout="button_count"
+	style="float: right;">
+</div>
+
 <div style="text-align: right">
 <a href="/secondhand">English version (EN)</a>
 </div>

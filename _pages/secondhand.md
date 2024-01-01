@@ -4,6 +4,12 @@ subtitle: Used proven equipment that can help you on your journeys.
 description: Offer used expedition equipment.
 featured_image: /images/about.jpg
 ---
+<div class="fb-share-button"
+	data-href="{{ page.url | absolute_url }}" 
+	data-layout="button_count"
+	style="float: right;">
+</div>
+
 <div style="text-align: right">
 <a href="/expedicnybazar">Slovenská verzia (SK)</a>
 </div>
