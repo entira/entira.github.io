@@ -1,3 +1,8 @@
+<div class="fb-share-button"
+	data-href="{{ page.url | absolute_url }}" 
+	data-layout="button_count"
+    style="float: right;">
+</div>
 
 ---
 
@@ -26,6 +31,12 @@ Po expedíciách v miernom, subtropickom a tropickom podnebí som začal sníva�
 <img src="/assets/img/20210807_220729.jpeg" alt="description" width="471" height="auto" align="left" style="float: none; margin: 0 15px 0 0;">
 
 Prekonávanie extrémnych výziev pádlovania v artickej časti severného Atlantiku. Silný protivietor, vlny trišťace sa o kajak a strach. Neprestávajúci dážď, premočená výstroj a diskomfort. Výhľady hôr, arktická príroda a spokojnosť. Slnko ako brána do iného sveta. Hľadanie úkrytu, fyzicky náročné pádlovanie a prekonávanie limitov na jednom z najkrajších miest na Zemi.
+
+<div class="fb-share-button"
+	data-href="{{ page.url | absolute_url }}" 
+	data-layout="button_count"
+    style="float: right;">
+</div>
 
 ---
 [(*English language*)](/en/blog/BetweenGiantsWavesIntroduction/)

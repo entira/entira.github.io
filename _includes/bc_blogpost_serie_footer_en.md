@@ -1,3 +1,8 @@
+<div class="fb-share-button"
+	data-href="{{ page.url | absolute_url }}" 
+	data-layout="button_count"
+    style="float: right;">
+</div>
 
 ---
 #### Further parts of the series ***Between Giants and Waves***
@@ -25,6 +30,12 @@ Embark on a riveting sea kayaking journey across Lofoten's archipelago, where a 
 <img src="/assets/img/20210807_220729.jpeg" alt="description" width="471" height="auto" align="left" style="float: none; margin: 0 15px 0 0;">
 
 Confronting Arctic North Atlantic's extreme paddling challenges - fierce headwinds, relentless waves, and the raw elements. Amidst unyielding rain and soaked gear, find breathtaking mountain vistas and serene Arctic wilderness. The sun shines like a new realm's gateway, offering shelter and fulfillment in one of Earth's most stunning landscapes, testing limits and resilience.
+
+<div class="fb-share-button"
+	data-href="{{ page.url | absolute_url }}" 
+	data-layout="button_count"
+    style="float: right;">
+</div>
 
 ---
 [(*Slovenský jazyk*)](/sk/blog/tag/bc2023-01)

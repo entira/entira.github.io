@@ -1,12 +1,12 @@
 ---
-title: 'Expedition: Tropical Southeast Asia Winter 2023 / Spring 2024'
+title: 'Expedition: Tropical Southeast Asia Winter 2024 / Spring 2025'
 subtitle: 'Explore the most remote places on Earth on folding sea kayaks.'
 date: 2022-05-16 00:00:00
 description: Embark on the ultimate adventure with our state-of-the-art folding kayaks, blending tradition with modern materials. Experience the thrill of a fully-packable expedition, ready to conquer any corner of the globe. Navigate through pristine coral reefs, enveloped by the lush tapestry of a Southeast Asian rainforest, slated for winter 2023 and spring 2024. Your journey awaits.
                 
 featured_image: '/assets/img/coron2020_12.jpg'
 ---
-Embark on an expedition guided by a seasoned sea kayaker, who has journeyed from Arctic waters to the vibrant depths of tropical paradises. From enduring the icy challenges of British Columbia's Great Bear Rainforest to paddling amidst the kaleidoscope of life in Southeast Asia's coral reefs, my competence spans diverse terrains. I've orchestrated international voyages, including the successful circumnavigation of the rugged Lofoten islands. Join me on an upcoming adventure, where traditional folding kayaks, designed for modern exploration, will navigate the warmth of the tropics in 2023 and 2024. This is your chance to be part of an unforgettable, competency-backed expedition.
+Embark on an expedition guided by a seasoned sea kayaker, who has journeyed from Arctic waters to the vibrant depths of tropical paradises. From enduring the icy challenges of British Columbia's Great Bear Rainforest to paddling amidst the kaleidoscope of life in Southeast Asia's coral reefs, my competence spans diverse terrains. I've orchestrated international voyages, including the successful circumnavigation of the rugged Lofoten islands. Join me on an upcoming adventure, where traditional folding kayaks, designed for modern exploration, will navigate the warmth of the tropics in 2024 and 2025. This is your chance to be part of an unforgettable, competency-backed expedition.
 
 ![](/assets/img/coron2020_46.jpg)
 
