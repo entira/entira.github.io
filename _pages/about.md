@@ -2,7 +2,7 @@
 title: About me
 subtitle: Don’t limit your challenges. Challenge your limits. Dream big.
 description: About me section.
-featured_image: /images/about.jpg
+featured_image: /images/movies.jpg
 ---
 A few years ago, my wife gave me my first sea kayak. On my maiden voyage, I capsized in the icy water of a nearby lake. It was a stark realization that kayaking would be a tougher challenge than I initially thought. Determined, I enrolled in kayak school that spring.
 

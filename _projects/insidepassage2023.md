@@ -1,37 +1,9 @@
 ---
-title: 'The last expedition: Between Giants and Waves (2023)'
-subtitle: Sea Kayaking in British Columbia's Untamed Beauty
+title: 'Between Giants and Waves'
+subtitle: The Lofoten circumnavigation (2021). Sea Kayaking in British Columbia's Untamed Beauty (2023).
 date: 2023-09-19 15:46
-description: Dive into the untamed beauty of British Columbia's Great Bear Rainforest, where mountains meet the boundless Pacific. Join me on a month-long sea kayaking odyssey, encountering whales, bears, and the wisdom of indigenous communities. 'Between Giants and Waves' is a tale of wilderness, self-discovery, and unforgettable encounters.
 featured_image: /assets/img/bc2023_01_tile.jpg
+description: Adventure series about expeditionary paddling in the Atlantic and Pacific Oceans. Moving playground to the tidal zone. Exploring remote places on Earth. Paddling with whales. True wilderness. Nordic paradise on Earth. New chapters of the story every two weeks.
 ---
-## Introduction
-
-It's been over a month since I returned from Canada, but today marks the beginning of my storytelling journey. I find myself savoring the last moments of summer, cherishing what I missed so dearly. The separation from my family weighed heavily on me, and now, brimming with newfound physical vitality, I'm eager to continue the spirit of adventure on home soil. Reflecting on our recent expedition along the Slovak section of the Danube, from the confluence with the Ipeľ River to the ruins of Devín Castle over an extended holiday weekend, I couldn't help but recall how a stubborn cold kept me sniffling upon my return.
-
-![](/assets/img/IMG_5197.jpeg)
-
-There's been a lingering hesitation about how to commence this epic tale. There were moments I considered omitting the less pleasant details, but after much contemplation, I resolved that authenticity lies in the unembellished truth. It's a cathartic process for me, and perhaps it'll serve as a compass for your own future adventures. Maybe, even those who played a part in this saga will find insight into my state of mind at the time. Success on this expedition was earned through not only sweat and a touch of blood but also a battle with oneself – the very essence of a genuine adventure.
-
-![](/assets/img/IMG_094535.jpeg)
-
-This narrative chronicles our journey across the North Pacific Ocean, threading through the scarcely inhabited expanse of British Columbia, nestled between the harbors of Prince Rupert and Telegraph Cove – a realm known as the Great Bear Rainforest. Here, colossal mountains and the vast Pacific Ocean converge, where time seems to stand still, bearing scant signs of human touch. Civilization here is woven predominantly by indigenous communities. In the heart of the forests, majestic creatures like bears, wolves, and cougars still reign supreme, while the ocean dances under the rule of whales, seals, and sea otters. Encounters with these inhabitants were truly extraordinary.
-
-![](/assets/img/IMG_4942.jpeg)
-
-For a full month, we navigated almost 700 kilometers of open sea, charting a course through landscapes I had only ever dreamed of. I was afforded the privilege of stepping into a realm untouched by civilization, to be one with nature for a fleeting moment. Learning from those who've harmonized with nature for millennia, even without the conveniences tucked away in my kayak, was an invaluable experience. Some label such places as infernal, while others deem them paradisiacal. Those who've ventured there, however, understand it to be a fusion of both. Along the way, I encountered individuals whose stories were as improbable as our chance meetings in these far-flung territories.   
-
-![](/assets/img/IMG_082508.jpeg)
-
-The story, however, will not just be about humility. It will also reveal the corners of human selfishness, egocentrism, stubbornness, misunderstanding, ignorance, contempt and even betrayal. What all can happen when you go to such a place with almost unknown people and ignore your instincts because of the insurmountable call of the wilderness. People like nice stories, but this one won't be like that sometimes. What I can promise you, though, is that in the telling, we'll get to go to some of the most beautiful and remote places on this planet, paddle with whales, meet bears, or realize that encounters with bears have been the less terrifying ones. I have no regrets and hope to do it again soon. The more obstacles along the way, the greater the satisfaction at the finish.
-
-![](/assets/img/IMG_5509.jpeg)
-
-You'll learn about how the idea to undertake such an expedition came about, the lengthy preparation and objectives, the equally thrilling journey to the start, paddling with the whales, as well as the wisdom I learned there that in turn has raised the bar for future expeditions to a whole new level. How I found myself alone at the edge of the world.
-
-![](/assets/img/bc2023_map.jpg)
-
-[Next episodes](/en/blog/)
-
----
-[(*Slovenský jazyk*)](/sk/blog/samnakrajisveta-zrodmyslienky)
+{% include bc_blogpost_serie_footer.md %}
+{% include share_on_facebook_en.md %}

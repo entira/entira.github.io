@@ -2,7 +2,7 @@
 title: Expedition Movies
 subtitle: Embrace the thrill of upcoming adventures by liking, sharing, and subscribing to my Youtube channel! Join me on extraordinary journeys from Arctic expeditions to tropical explorations. Don't miss out!
 description: Danube Kayaker Expedition Movies Production
-featured_image: /images/movies.jpg
+featured_image: /images/home.jpg
 ---
 <h2>2021: The Lofoten Islands Circumnavigation (Norway)</h2>
 

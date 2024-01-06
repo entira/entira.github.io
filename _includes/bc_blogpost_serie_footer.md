@@ -1,49 +1,25 @@
 <div class="fb-share-button"
 	data-href="{{ page.url | absolute_url }}" 
 	data-layout="button_count"
-    style="float: right;">
+    style="float: none;">
 </div>
 
-##### Povedz mi svoj názor! Vaše komentáre sú pre mňa dôležité.
-(Komentovať môžeš len v prípade, ak si prihlásení do Facebooku.)
+#### Adventure series about expeditionary paddling in the Atlantic and Pacific Oceans. Moving playground to the tidal zone. Exploring remote places on Earth. Paddling with whales. True wilderness. Nordic paradise on Earth. 
 
-<div class="fb-comments"
-	data-href="{{ page.url | absolute_url }}"
-	data-numposts="10">
-</div>
----
+A captivating tale interwoven with [authentic photographs](https://www.instagram.com/danubekayaker/), interactive [3D maps](https://www.google.com/earth/studio/) with real expedition GPS data, and [video documentaries](/movies).
 
-#### Ďaľšie diely série ***Sám na kraji sveta***
+**New chapters of the story every two weeks.**
 
-[1. Úvod](/sk/blog/tag/bc2023-01)
-
-<img src="/assets/img/bc2023_01_tile.jpg" alt="description" width="471" height="auto" align="left" style="float: none; margin: 0 15px 0 0;">
-
-Prvý diel rozprávania o epickej, viac ako mesiac trvajúcej expedícii, na ktorej sme sa na morských kajakoch plavili severným Tichým oceánom v takmer neobývanej časti Britskej Kolumbie. Územie zvané Dažďový prales veľkého medveďa s rozlohou väčšou ako polovica celého Slovenska, sa mi stal na čas domovom.
-
-[2. Zrod myšlienky](/sk/blog/samnakrajisveta-zrodmyslienky)
-
-<img src="/assets/img/20190511_125055.jpeg" alt="description" width="471" height="auto" align="left" style="float: none; margin: 0 15px 0 0;">
-
-Pokračovanie rozprávania o tom, ako som sa ocitol sám na kraji sveta a opäť zažil pocit úplnej slobody. O tom, že táto cesta nebola ľahká. Poviem vám o tom, ako to celé začalo. O tom, ako malá zmena v živote človeka môže od základov zmeniť jeho smerovanie. O neuveriteľnom dobrodružstve, ktoré stále neskončilo.
-
-[3. Vysokohorská turistika na morskom kajaku I](/sk/blog/samnakrajisveta-lofoty)
-
-<img src="/assets/img/20210801_174653.jpeg" alt="description" width="471" height="auto" align="left" style="float: none; margin: 0 15px 0 0;">
-
-Po expedíciách v miernom, subtropickom a tropickom podnebí som začal snívať o ceste na ďaleký sever. Tak, ako som sľúbil, tak sa s tebou po dvoch rokoch vrátim až za polárny kruh na nórske súostrovie Lofoty. Príbeh o posúvaní hraníc. O objavovaní sveta aj samého seba. Dobrodružstvo v arktickej časti Atlantického oceánu.
-
-[4. Vysokohorská turistika na morskom kajaku II](/sk/blog/samnakrajisveta-lofoty2)
-
-<img src="/assets/img/20210807_220729.jpeg" alt="description" width="471" height="auto" align="left" style="float: none; margin: 0 15px 0 0;">
-
-Prekonávanie extrémnych výziev pádlovania v artickej časti severného Atlantiku. Silný protivietor, vlny trišťace sa o kajak a strach. Neprestávajúci dážď, premočená výstroj a diskomfort. Výhľady hôr, arktická príroda a spokojnosť. Slnko ako brána do iného sveta. Hľadanie úkrytu, fyzicky náročné pádlovanie a prekonávanie limitov na jednom z najkrajších miest na Zemi.
+|  | <a href="/en/blog"><img src="/assets/img/uk.png" width="30%"></a> | <a href="/sk/blog"><img src="/assets/img/slovakia.png" width="30%"></a> |
+| --- | --- | --- |
+| ![1](/assets/img/bc2023_01_tile.jpg) | **[Sea Kayaking in British Columbia's Untamed Beauty](/en/blog/BetweenGiantsWavesIntroduction/)**<br>Dive into the untamed beauty of British Columbia's Great Bear Rainforest. | **[Úvod](/sk/blog/tag/bc2023-01)**<br>Prvý diel rozprávania o epickej expedícii na morských kajakoch. |
+| ![2](/assets/img/20190511_125055.jpeg) | **[A Journey of Transformation](/en/blog/BetweenGiantsWavesTransformation/)**<br>Experience a remarkable transformation from a capsized kayak mishap to epic Arctic expeditions. | **[Zrod myšlienky](/sk/blog/samnakrajisveta-zrodmyslienky)**<br>Pokračovanie rozprávania o tom, ako som sa ocitol sám na kraji sveta. |
+| ![3](/assets/img/20210801_174653.jpeg) | **[Navigating Lofoten I](/en/blog/BetweenGiantsWavesLofotenI/)**<br>Embark on a riveting sea kayaking journey across Lofoten's archipelago. | **[Vysokohorská turistika na morskom kajaku I](/sk/blog/samnakrajisveta-lofoty)**<br>Po expedíciách som začal snívať o ceste na ďaleký sever. |
+| ![4](/assets/img/20210807_220729.jpeg) | **[Navigating Lofoten II](/en/blog/BetweenGiantsWavesLofotenII/)**<br>Confronting Arctic North Atlantic's extreme paddling challenges. | **[Vysokohorská turistika na morskom kajaku II](/sk/blog/samnakrajisveta-lofoty2)**<br>Prekonávanie extrémnych výziev pádlovania v artickej časti severného Atlantiku. |
+| ![5](/assets/img/20210808_171634.jpeg) | **[Navigating Lofoten III](/en/blog/BetweenGiantsWavesLofotenIII/)**<br>The final third part of the story about an adventure in the Arctic part of the Atlantic Ocean. | **[Vysokohorská turistika na morskom kajaku III](/sk/blog/samnakrajisveta-lofoty3)**<br>Posledná tretia časť rozprávania o dobrodružstve v arktickej časti Atlantického oceánu. |
 
 <div class="fb-share-button"
 	data-href="{{ page.url | absolute_url }}" 
 	data-layout="button_count"
     style="float: right;">
 </div>
-
----
-[(*English language*)](/en/blog/BetweenGiantsWavesIntroduction/)
