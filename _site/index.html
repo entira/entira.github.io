@@ -48,13 +48,23 @@
 	<script>
 		var target = []; // Create a new target Array.
 
-		target.All = "/en/blog/"; // Redirects Non-targeted / all other visitors to this URL.
+		target.All = "/"; // Redirects Non-targeted / all other visitors to this URL.
 		target.SK  = "/sk/blog/";  // Redirects US Visitors to this URL.
 		target.CZ  = "/sk/blog/";  // Redirects UK Visitors to this URL.
 
-		function geoip(g){window.top.location.href=target[g.country]||target.All}
+		function geoip(g) {
+        	var currentLocation = window.location.pathname;
+       		var targetLocation = target[g.country] || target.All;
+			// Only redirect if the current location is different from the target location
+ 	       	if (currentLocation !== targetLocation) {
+  	        	window.top.location.href = targetLocation;
+   	     		}
+  	 		}
+		
+		// Trigger the mock function
+  	  	// Replace this with actual GeoIP service call
+  	  	getGeoIP();
 	</script>
-			
 	<script src="https://get.geojs.io/v1/ip/country.js?callback=geoip"></script>
 
 	
