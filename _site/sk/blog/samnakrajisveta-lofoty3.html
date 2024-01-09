@@ -166,7 +166,60 @@
 			   style="float: right;">
 			</div>
 
-			<p>Táto expedícia ešte neskončila, ale už posunula moju komfortnú zónu do neprebádaných oblastí. Znova som si uvedomil, že ľudské hranice sú len niečo, čo si zo strachu vytvárame hlboko v našich mysliach. Bojíme sa neznámeho. Na tejto expedícii to boli neznámi ľudia, extrémne pádlovanie, neustávajúci dážď a zima.</p>
+			<head>
+	    <!-- for optimal display on high DPI devices -->
+	        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/core/index.min.css" />
+</head>
+
+<body>
+
+<script src="https://cdn.jsdelivr.net/npm/three/build/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/core/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/gyroscope-plugin/index.min.js"></script>
+
+
+<!-- the viewer container must have a defined size -->
+<div id="viewer" style="width: 100%; height: 50vh;">
+
+<script>
+	    const viewer = new PhotoSphereViewer.Viewer({
+		            container: document.querySelector('#viewer'),
+		            panorama: 'https://danubekayaker.com/assets/360/pano.jpg',
+					caption: 'www.danubekayaker.com',
+					plugins: [PhotoSphereViewer.GyroscopePlugin],
+					navbar: [
+        'zoom',
+        'move',
+        'caption',
+        'fullscreen',
+    ],
+		        });
+</script>
+</div>
+
+<div id="viewer2" style="width: 100%; height: 50vh;">
+
+<script>
+	const viewer2 = new PhotoSphereViewer.Viewer({
+				container: document.querySelector('#viewer'),
+				panorama: 'https://danubekayaker.com/assets/360/pano.jpg',
+				caption: 'www.danubekayaker.com',
+				plugins: [PhotoSphereViewer.GyroscopePlugin],
+				navbar: [
+	'zoom',
+	'move',
+	'caption',
+	'fullscreen',
+],
+			});
+</script>
+</div>
+
+</body>
+
+<p>Táto expedícia ešte neskončila, ale už posunula moju komfortnú zónu do neprebádaných oblastí. Znova som si uvedomil, že ľudské hranice sú len niečo, čo si zo strachu vytvárame hlboko v našich mysliach. Bojíme sa neznámeho. Na tejto expedícii to boli neznámi ľudia, extrémne pádlovanie, neustávajúci dážď a zima.</p>
 
 <p><img src="/assets/img/20210815_095535.jpeg" alt="" /></p>
 
