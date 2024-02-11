@@ -12,23 +12,4 @@
 <script src="https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/gyroscope-plugin/index.min.js"></script>
 
 
-<!-- the viewer container must have a defined size -->
-<div id="viewer" style="width: 100%; height: 50vh;">
-
-<script>
-	    const viewer = new PhotoSphereViewer.Viewer({
-		            container: document.querySelector('#viewer'),
-		            panorama: 'https://danubekayaker.com/assets/360/pano.jpg',
-					caption: 'www.danubekayaker.com',
-					plugins: [PhotoSphereViewer.GyroscopePlugin],
-					navbar: [
-        'zoom',
-        'move',
-        'caption',
-        'fullscreen',
-    ],
-		        });
-</script>
-</div>
-
 </body>
