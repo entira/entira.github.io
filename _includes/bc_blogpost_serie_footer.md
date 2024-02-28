@@ -17,6 +17,7 @@ A captivating tale interwoven with [authentic photographs](https://www.instagram
 | ![3](/assets/img/20210801_174653.jpeg) | **[Navigating Lofoten I](/en/blog/BetweenGiantsWavesLofotenI/)**<br>Embark on a riveting sea kayaking journey across Lofoten's archipelago. | **[Vysokohorská turistika na morskom kajaku I](/sk/blog/samnakrajisveta-lofoty)**<br>Po expedíciách som začal snívať o ceste na ďaleký sever. |
 | ![4](/assets/img/20210807_220729.jpeg) | **[Navigating Lofoten II](/en/blog/BetweenGiantsWavesLofotenII/)**<br>Confronting Arctic North Atlantic's extreme paddling challenges. | **[Vysokohorská turistika na morskom kajaku II](/sk/blog/samnakrajisveta-lofoty2)**<br>Prekonávanie extrémnych výziev pádlovania v artickej časti severného Atlantiku. |
 | ![5](/assets/img/20210808_171634.jpeg) | **[Navigating Lofoten III](/en/blog/BetweenGiantsWavesLofotenIII/)**<br>The final third part of the story about an adventure in the Arctic part of the Atlantic Ocean. | **[Vysokohorská turistika na morskom kajaku III](/sk/blog/samnakrajisveta-lofoty3)**<br>Posledná tretia časť rozprávania o dobrodružstve v arktickej časti Atlantického oceánu. |
+| ![6](/assets/img/IMG_4629.jpg) | **[On the Edge of Civilization](/en/blog/BetweenGiants01/)**<br>The introduction to the first of seven chapters about a great adventure in the North Pacific. | **[Na hrane civilizácie](/sk/blog/samnakrajisveta-bc01)**<br>Úvod prvej zo siedmich kapitol o veľkom dobrodružstve v severnom Pacifiku. |
 
 <div class="fb-share-button"
 	data-href="{{ page.url | absolute_url }}" 
