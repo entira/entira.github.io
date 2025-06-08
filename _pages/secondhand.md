@@ -25,6 +25,7 @@ Sea kayak MELKER ÖRSKÄR for sale. The kayak is designed for 2-3 paddlers = 2 +
 Click here for <a href="https://melkerofsweden.se/products/melker-orskar">full specification</a> by vendor.
 
 **Price:** 2000 €
+**Status:** SOLD
 
 ---
 <h2>Folding kayaks with 50% discount</h2>
@@ -40,6 +41,7 @@ Purebred fast expedition sea folding kayak.
 Click here for <a href="https://www.faltboot.de/en/products/nortik/nortik-argo/">full specification</a> by vendor.
 
 * **Price:** 1300 €
+**Status:** SOLD
 * **EU shipping:** 100 € 
 
 <h3>Nortik Argo II</h3>
@@ -53,6 +55,7 @@ Two-seater, fast, extremely stable, durable and spacious folding sea kayak.
 Click here for <a href="https://www.faltboot.de/en/products/nortik/nortik-argo-2/">full specification</a> by vendor.
 
 * **Price:** 1450 €
+**Status:** SOLD
 * **EU shipping:** 100 €
 
 ---
@@ -68,6 +71,7 @@ Single-seater extremely packable and durable packraft from an American manufactu
 * Length: 229cm
 * Weight: 3,8kg
 * Price: 600€ (original price 1650€)
+**Status:** SOLD
 * EU shipping: 50 €
 
 More detailed info from:
