@@ -14,8 +14,6 @@ menu_settings:
       url: '/sk/blog'
     - title: 'Movies'
       url: '/movies' 
-    - title: 'Second-hand'
-      url: '/secondhand'   
     - title: 'About'
       url: '/about'
     - title: 'Contact'
