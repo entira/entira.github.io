@@ -1,12 +1,17 @@
-{% assign current = page.lang | default: site.lang %}
-{% assign alt = 'sk' %}
-{% if current == 'sk' %}
-  {% assign alt = 'en' %}
+{% assign current = page.lang | default: site.lang | default: 'en' %}
+{% assign en_page = site.posts | where:'page_id', page.page_id | where:'lang', 'en' | first %}
+{% if en_page == nil %}
+  {% assign en_page = site.pages | where:'page_id', page.page_id | where:'lang', 'en' | first %}
 {% endif %}
-{% assign alt_post = site.posts | where:'page_id', page.page_id | where:'lang', alt | first %}
-{% if alt_post == nil %}
-  {% assign alt_post = site.pages | where:'page_id', page.page_id | where:'lang', alt | first %}
+{% assign sk_page = site.posts | where:'page_id', page.page_id | where:'lang', 'sk' | first %}
+{% if sk_page == nil %}
+  {% assign sk_page = site.pages | where:'page_id', page.page_id | where:'lang', 'sk' | first %}
 {% endif %}
-{% if alt_post %}
-<a href="{{ alt_post.url | relative_url }}" class="language-switcher">{{ alt | upcase }}</a>
-{% endif %}
+<span class="language-switcher">
+  {% if en_page %}
+  <a href="{{ en_page.url | relative_url }}"{% if current == 'en' or current == nil %} class="active"{% endif %}>EN</a>
+  {% endif %}
+  {% if sk_page %}
+  <a href="{{ sk_page.url | relative_url }}"{% if current == 'sk' %} class="active"{% endif %}>SK</a>
+  {% endif %}
+</span>

@@ -250,4 +250,13 @@
 		}
 	}
 }
-.language-switcher { margin-left: 10px; }
+.language-switcher {
+  margin-left: 10px;
+  a {
+    margin-right: 5px;
+    text-decoration: none;
+  }
+  .active {
+    font-weight: bold;
+  }
+}
