@@ -8,6 +8,8 @@ categories: [bratislava, Dunaj, Karloveské rameno, leto, paddleboard, pádloven
 permalink: /sk/blog/test-paddleboardu-na-dunaji-alebo-ako-som-supoval-na-devin/
 description: Predčasom som vyskúšal "paddle board", tiež zvaný SUP (Stand-Up Paddle). Rovnako ako v prípade morského kajaku som sa obrátil na skúsenejších. Absolvoval som v Karloveskej zátoke postupne dva tréningy. Na prvom som sa naučil úplné základy. Napríklad ako sa drží v ruke pádlo :).
 featured_image: /assets/img/2017-06-11-11.55.39.jpg
+lang: sk
+page_id: test-paddleboardu-na-dunaji-alebo-ako-som-supoval-na-devin
 ---
 Predčasom som vyskúšal "paddle board", tiež zvaný SUP (Stand-Up Paddle). Rovnako ako v prípade morského kajaku som sa obrátil na skúsenejších. Absolvoval som v Karloveskej zátoke postupne dva tréningy. Na prvom som sa naučil úplné základy. Napríklad ako sa drží v ruke pádlo :). Spočiatku mi státie na doske nebolo vôbec príjemné. Celý som sa triasol. Po pár minútach to prešlo a neskôr som bol schopný jazdiť po zátoke bez problémov.
 

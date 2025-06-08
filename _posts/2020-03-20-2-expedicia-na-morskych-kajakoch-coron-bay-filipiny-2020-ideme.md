@@ -8,6 +8,8 @@ categories: [ázia, Blog, dobrodrúžstvo, expedícia, Filipíny, kajak, Kajak, 
 permalink: /sk/blog/2-expedicia-na-morskych-kajakoch-coron-bay-filipiny-2020-ideme/
 description: Minule som písal o tom, že môj prvý pokus dostať sa na Filipíny bol neúspešný. Skončil mojím vyhostením, zákazom vstupu a skrátením expedície o 3 týždne na polovicu. To žiaľ nebolo všetko.
 featured_image: /assets/img/20200211_025143.jpg
+lang: sk
+page_id: 2-expedicia-na-morskych-kajakoch-coron-bay-filipiny-2020-ideme
 ---
 Minule som písal o tom, že môj prvý pokus dostať sa na Filipíny bol neúspešný. Skončil mojím vyhostením, zákazom vstupu a skrátením expedície o 3 týždne na polovicu. To žiaľ nebolo všetko. Keďže letenky s medzipristátím na Taiwane nám boli k ničomu, tak sme ich museli stornovať. Náš kamarát z Brna to navyše vzdal. Nechcel riskovať, že sa situácia zopakuje. Zostali sme traja.
 

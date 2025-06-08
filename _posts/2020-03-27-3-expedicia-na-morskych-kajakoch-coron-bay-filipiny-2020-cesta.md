@@ -8,6 +8,8 @@ categories: [ázia, Blog, dobrodrúžstvo, expedícia, Filipíny, kajak, Kajak, 
 permalink: /sk/blog/3-expedicia-na-morskych-kajakoch-coron-bay-filipiny-2020-cesta/
 description: Baliť sme sa začali všetci spolu až pár hodín pred odletom z Viedne. Pádlovačku na Filipínach som síce plánoval a pripravoval niekoľko mesiacov, no aj tak to dopadlo ako vždy. Balením pred odchodom.
 featured_image: /assets/img/coron2020_37.jpg
+lang: sk
+page_id: 3-expedicia-na-morskych-kajakoch-coron-bay-filipiny-2020-cesta
 ---
 Baliť sme sa začali všetci spolu až pár hodín pred odletom z Viedne. Pádlovačku na Filipínach som síce plánoval a pripravoval niekoľko mesiacov, no aj tak to dopadlo ako vždy. Balením pred odchodom. Tentokrát to bolo paradoxne preto, lebo sme sa zbalili už viac ako mesiac predtým.
 

@@ -8,6 +8,8 @@ categories: [jazero, Kajak, morský kajak, Neusiedler See, Neziderské jazero, p
 permalink: /sk/blog/neziderske-jazero-neusiedler-see/
 description: Kam ísť kajakovať, keď máte k dispozícii jeden deň, jedno auto a nechce sa vám zabíjať čas krkolomnými spôsobmi dopravy a radšej si užívať čas v prírode ako v aute? Napadlo ma ísť pre zmenu na nejaké jazero. Ale na ktoré? Neusiedler See.
 featured_image: /assets/img/IMG_20170527_142552.jpg
+lang: sk
+page_id: neziderske-jazero-neusiedler-see
 ---
 Kam ísť kajakovať, keď máte k dispozícii jeden deň, jedno auto a nechce sa vám zabíjať čas krkolomnými spôsobmi dopravy a radšej si užívať čas v prírode ako v aute? Napadlo ma ísť pre zmenu na nejaké jazero. Ale na ktoré? Neusiedler See. Je kúsok od Bratislavy a má úctihodnú rozlohu 315 km². Je 36 km dlhé a v najširšom mieste, ktoré sme si so zhodou okolností vybrali na traverz viac ako 10 km široké.
 

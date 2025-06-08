@@ -8,6 +8,8 @@ categories: [bratislava, Dunaj, Hostia, Kajak, morský kajak, pádlovanie, Rakú
 permalink: /sk/blog/vikend-na-dunaji/
 description: Posledné dva roky si už trochu zvykám na predtým pre mňa nepredstaviteľnú ideu, že Dunaj nie je riekou len pre veľké lode. Že ma na ňom nezmotajú vodné víry, neprejde rýchloloď, neprevrhne veľká vlna a nevcucne turbína vodnej elektrárne.
 featured_image: /assets/img/P1150044.jpg
+lang: sk
+page_id: vikend-na-dunaji
 ---
 Posledné dva roky si už trochu zvykám na predtým pre mňa nepredstaviteľnú ideu, že Dunaj nie je riekou len pre veľké lode. Že ma na ňom nezmotajú vodné víry, neprejde rýchloloď, neprevrhne veľká vlna a nevcucne turbína vodnej elektrárne.
 

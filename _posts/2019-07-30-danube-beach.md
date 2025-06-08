@@ -8,6 +8,8 @@ categories: [Blog, Chorvátsko, danube, dobrodrúžstvo, Dunaj, Kajak, kajak, mo
 permalink: /sk/blog/danube-beach/
 description: Tento úsek Dunaja som si chcel nechať ako posledný. Prirodzená Chorvátsko-Srbská hranica má asi 200 kilometrov. Zdolanie tohoto relatívne krátkeho úseku je však vzhľadom na vzdialenosti logisticky veľmi náročné.
 featured_image: /assets/img/20190724_113110.jpg
+lang: sk
+page_id: danube-beach
 ---
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1XlSPdS43uYmqWfQgzCUUYGSONMhZTjSH" width="100%" height="480"><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span></iframe>
 

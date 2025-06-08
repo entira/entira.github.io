@@ -1,0 +1,12 @@
+{% assign current = page.lang | default: site.lang %}
+{% assign alt = 'sk' %}
+{% if current == 'sk' %}
+  {% assign alt = 'en' %}
+{% endif %}
+{% assign alt_post = site.posts | where:'page_id', page.page_id | where:'lang', alt | first %}
+{% if alt_post == nil %}
+  {% assign alt_post = site.pages | where:'page_id', page.page_id | where:'lang', alt | first %}
+{% endif %}
+{% if alt_post %}
+<a href="{{ alt_post.url | relative_url }}" class="language-switcher">{{ alt | upcase }}</a>
+{% endif %}

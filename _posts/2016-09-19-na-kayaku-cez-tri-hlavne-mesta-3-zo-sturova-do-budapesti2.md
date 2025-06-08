@@ -8,6 +8,8 @@ categories: [Dunaj, Kajak, Maďarsko, morský kajak, outdoor, Slovenčina, Slove
 permalink: /sk/blog/na-kayaku-cez-tri-hlavne-mesta-3-zo-sturova-do-budapesti2/
 description: Tak dlho to netrvalo a podarilo sa mi dokončiť túru z Viedne do Budapešti. Parťák Martin vybavil dopravu lodí do Štúrova. Kam sa hrabe záhradka na streche :) .
 featured_image: /assets/img/RIMG0944.jpg
+lang: sk
+page_id: capitals3
 ---
 Tak dlho to netrvalo a podarilo sa mi dokončiť túru z Viedne do Budapešti. Parťák Martin vybavil dopravu lodí do Štúrova. Kam sa hrabe záhradka na streche :) .
 

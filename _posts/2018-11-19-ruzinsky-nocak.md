@@ -8,6 +8,8 @@ categories: [Blog, hornád, jeseň, Kajak, kajak, nočák, orientačný pretek, 
 permalink: /sk/blog/ruzinsky-nocak/
 description: Už minulý rok som počul o nejakom ružínskom nočáku. Akési preteky v noci na Ružínskej priehrade. Každý to popisoval úplne inak a až po tohtoročnej návšteve nočného orientačného preteku na Ružíne viem, že tam nikto z tých ľudí nebol.
 featured_image: /assets/img/PB171360.jpg
+lang: sk
+page_id: ruzinsky-nocak
 ---
 Už minulý rok som počul o nejakom ružínskom nočáku. Akési preteky v noci na Ružínskej priehrade. Každý to popisoval úplne inak a až po tohtoročnej návšteve nočného orientačného preteku na Ružíne viem, že tam nikto z tých ľudí nebol. V kategórii K1 tvoria posádku minimálne 2 lode. Kamoš sa ma pýtal, či si to nechcem ísť skúsiť a robiť parťáka jeho kamošovi.
 

@@ -8,6 +8,8 @@ categories: [ázia, Blog, Coron, dobrodrúžstvo, expedícia, Filipíny, Kajak, 
 permalink: /sk/blog/5-expedicia-na-morskych-kajakoch-coron-bay-filipiny-2020-vodny-svet-2/
 description: Ráno som nedokázal vstať z postele. Nedokázal som sa ani postaviť na nohy a napiť sa. Keď už som dokázal povedať súvislú vetu, tak mi chalani, ktorí stáli nado mnou, pomohli nájsť v lekárničke čierne uhlie a endiex.
 featured_image: /assets/img/coron2020_32.jpg
+lang: sk
+page_id: 5-expedicia-na-morskych-kajakoch-coron-bay-filipiny-2020-vodny-svet-2
 ---
 Ráno som nedokázal vstať z postele. Nedokázal som sa ani postaviť na nohy a napiť sa. Keď už som dokázal povedať súvislú vetu, tak mi chalani, ktorí stáli nado mnou, pomohli nájsť v lekárničke čierne uhlie a endiex. Miro to ešte skombinoval s niečím zo svojej lekárničky. Z postele som sa nepostavil až do druhého rána. Celý deň som zostal verný svojmu rannému mixíku. Chalani mi nosili z baru sódu. Keď odišli pádlovať k ostrovnému výbežku, chodili ma kontrolovať baby z houseboatu. Namiesto sódy mi nosili kokosové orechy, ktorých voda sa používa pri takýchto zdravotných problémoch.
 

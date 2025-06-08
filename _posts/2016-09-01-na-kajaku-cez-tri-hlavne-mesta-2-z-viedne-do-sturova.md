@@ -8,6 +8,8 @@ categories: [bratislava, Budapešť, Kajak, Maďarsko, morský kajak, pádlovani
 permalink: /sk/blog/na-kajaku-cez-tri-hlavne-mesta-2-z-viedne-do-sturova/
 description: Tak a ide sa. Stretávame sa krátko pred 8.00 v Karloveskej lodenici odkiaľ sa autom vyvezieme do prístavu vo Viedni. Ako vždy je najväčší problém zbaliť sa do lode. Keď sa vám náhodou bude zdať, že máte veľa miesta pravdepodobne ste si niečo zabudli. Naposledy som si tak zabudol stan, spacák, karimatku aj topánky.
 featured_image: /assets/img/RIMG0807.jpg
+lang: sk
+page_id: capitals2
 ---
 Tak a ide sa. Stretávame sa krátko pred 8.00 v Karloveskej lodenici odkiaľ sa autom vyvezieme do prístavu vo Viedni. Ako vždy je najväčší problém zbaliť sa do lode. Keď sa vám náhodou bude zdať, že máte veľa miesta pravdepodobne ste si niečo zabudli. Naposledy som si tak zabudol stan, spacák, karimatku aj topánky. Aj tak 3/4 vecí nikdy ani nevybalíme, takže to táke strašné nebolo. Schody viedli až do vody, takže nastupovenie bolo príjemné.
 

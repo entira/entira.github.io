@@ -61,6 +61,10 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-polyglot
+
+languages: ["en", "sk"]
+default_lang: en
 
 paginate: 6
 paginate_path: "/sk/blog/page:num/"

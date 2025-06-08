@@ -8,6 +8,8 @@ categories: [divoká voda, Kajak, kajak, príroda, Slovenčina, Slovinsko, Soča
 permalink: /sk/blog/po-prvykrat-na-divokej-vode-rieka-soca-slovinsko/
 description: Začalo to ponukou ísť sa učiť kajakovať na divokú vodu na rieku Salza. Pre zlé podmienky, veľmi vysoký prietok a zimu, sme sa nakoniec rozhodli ísť kajakovať na slovinskú rieku Soča.
 featured_image: /assets/img/P9236034.jpg
+lang: sk
+page_id: po-prvykrat-na-divokej-vode-rieka-soca-slovinsko
 ---
 Začalo to ponukou ísť sa učiť kajakovať na divokú vodu na rieku Salza. Pre zlé podmienky, veľmi vysoký prietok a zimu, sme sa nakoniec rozhodli ísť kajakovať na slovinskú rieku Soča. Bol som tam kedysi veľmi dávno raftovať. Od viacerých ľudí som počul, že kajakovanie na Soči je veľmi náročné a neodporučajú mi tam vôbec chodiť. Chuť zdokonalovať svoje kajakové skúsenosti však nakoniec vždy zvíťazí.
 

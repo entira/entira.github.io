@@ -8,6 +8,8 @@ categories: [Dunaj, Kajak, morský kajak, Nemecko, outdoor, pádlovanie, prírod
 permalink: /sk/blog/krizom-cez-rakusko-cast1/
 description: Už o týždeň vyrážam na 10 dňovú kajakovú túru z nemeckého mesta Passau do Bratislavy. Trasa dlhá 361 km začína pod priehradou na rieke Inn, pokračuje celým rakúskym úsekom Dunaja až pri hrade Devín pretne slovenské hranice a po pár ďaľších kilometroch končí v lodenici v bratislavskej mestskej časti Karlova Ves.
 featured_image: /assets/img/danube-map-austria.jpg
+lang: sk
+page_id: krizom-cez-rakusko-cast1
 ---
 Tak a je to tu!
 

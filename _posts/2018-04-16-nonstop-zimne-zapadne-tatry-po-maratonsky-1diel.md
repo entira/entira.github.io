@@ -8,6 +8,8 @@ categories: [Blog, Hostia, Slovenčina, Slovensko, tatry, turistika, Turistika, 
 permalink: /sk/blog/nonstop-zimne-zapadne-tatry-po-maratonsky-1diel/
 description: „Postihnutí často trpia radosťou z vlastnej bolesti, únavy a vyčerpania. Ešte aj v zime. Ale v peknom prostredí. Je to úchylka. A nedá sa liečiť.“
 featured_image: /assets/img/DSC_7988_Fotor.jpg
+lang: sk
+page_id: nonstop-zimne-zapadne-tatry-po-maratonsky-1diel
 ---
 <h2>Ťažká diagnóza</h2>
 

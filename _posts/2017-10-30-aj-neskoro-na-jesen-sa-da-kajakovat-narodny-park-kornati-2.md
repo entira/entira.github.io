@@ -8,6 +8,8 @@ categories: [Chorvátsko, Jadranské more, jeseň, Kajak, more, morský kajak, o
 permalink: /sk/blog/aj-neskoro-na-jesen-sa-da-kajakovat-narodny-park-kornati-2/
 description: V strede týždňa som dostal od kamoša z lodenice návrh, či nejdem kajakovať do Chorvátska. Bolo to síce narýchlo, ale dostatočne dlhé okno s dobrým počasím v posledný októbrový týždeň nie je samozrejmosť. Prikývol som.
 featured_image: /assets/img/PA266650.jpg
+lang: sk
+page_id: aj-neskoro-na-jesen-sa-da-kajakovat-narodny-park-kornati-2
 ---
 V strede týždňa som dostal od kamoša z lodenice návrh, či nejdem kajakovať do Chorvátska. Bolo to síce narýchlo, ale dostatočne dlhé okno s dobrým počasím v posledný októbrový týždeň nie je samozrejmosť. Prikývol som. Do národného parku Kornati som sa chystal už dlho. Práve pre zlé počasie sa to zatiaľ nikdy nepodarilo.
 

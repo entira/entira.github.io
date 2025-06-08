@@ -8,6 +8,8 @@ categories: [Blog, delta, Dunaj, Kajak, kajak, lekno, morský kajak, ourdoor, p�
 permalink: /sk/blog/delta-dunaja/
 description: Každá rieka niekde pramení a niekde končí. Voda v rieke, ktorej spoznávaniu sa posledné roky intenzívne venujem, Dunaj, konči svoju púť cez takmer celú Európu v Čiernom mori. Tesne pred svojím koncom vytvára deltu.
 featured_image: /assets/img/P9210261.jpg
+lang: sk
+page_id: delta-dunaja
 ---
 Každá rieka niekde pramení a niekde končí. Voda v rieke, ktorej spoznávaniu sa posledné roky intenzívne venujem, Dunaj, konči svoju púť cez takmer celú Európu v Čiernom mori. Tesne pred svojím koncom vytvára deltu. Ako názov napovedá, ide o obrovské územie trojuholníkovitého tvaru. V najširšej časti, kde sa už delta “dotýka” mora, má delta viac ako 100 km. Toto riedko obývané územie tvorí sústavu dunajských ramien a jazier popretkávaných hustou sieťou kanálov. Na ploche 4152 km² tvorí akýsi vodný svet. Mimo severských krajín, je to jeden z posledných kútov divokej prírody v Európe.
 

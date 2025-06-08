@@ -1,6 +1,6 @@
 <!doctype html>
 
-<html class="no-js" lang="en">
+<html class="no-js" lang="{{ page.lang | default: site.lang | default: 'en' }}">
 
 <head>
 
@@ -45,28 +45,6 @@
 	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/fontawesome.js" integrity="sha384-NY6PHjYLP2f+gL3uaVfqUZImmw71ArL9+Roi9o+I4+RBqArA2CfW1sJ1wkABFfPe" crossorigin="anonymous"></script>
 
 	
-	<!-- GeoIP Redirect script https://github.com/OpenAff/geoip-target-filter-->
-<script>
-	var target = []; // Create a new target Array.
-
-	target.All = "/"; // Redirects Non-targeted / all other visitors to this URL.
-	target.SK = "/sk/blog/";  // Redirects US Visitors to this URL.
-	target.CZ = "/sk/blog/";  // Redirects UK Visitors to this URL.
-
-	function geoip(g) {
-		var currentLocation = window.location.pathname;
-		var targetLocation = target[g.country] || target.All;
-		// Only redirect if the current location is different from the target location
-		if (currentLocation !== targetLocation) {
-			window.top.location.href = targetLocation;
-		}
-	}
-
-	// Trigger the mock function
-	// Replace this with actual GeoIP service call
-	getGeoIP();
-</script>
-<script src="https://get.geojs.io/v1/ip/country.js?callback=geoip"></script> 
 
 	{% if site.data.settings.advanced_settings.custom_styles %}
 	<!-- Custom Styles -->

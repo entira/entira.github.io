@@ -8,6 +8,8 @@ categories: [adventure, bird flu, countryside, English, H5N8, Jahodná, Jelka, K
 permalink: /en/blog/winter-paddling-on-the-little-danube-80-km-from-jelka-to-kolarovo/
 description: The temperatures were below zero in the last two months, so my trips to the water always took maximum of a few hours. In the winter I am practising on the Little Danube.
 featured_image: /assets/img/IMG_20170218_083340.jpg
+lang: en
+page_id: winterdanube
 ---
 The temperatures were below zero in the last two months, so my trips to the water always took maximum of a few hours. In the winter I am practising on the Little Danube. I am making a round-trip between Zálesie and Nová Dedinka. It is my favorite section of the Little Danube. It is very lively here even during the heaviest freezes. The wildlife is not sleeping even in the winter. Wild animals are fighting for their lives.
 

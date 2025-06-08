@@ -8,6 +8,8 @@ categories: [folding kayak, kajak, Kajak, Recenzie, skladací kajak, Slovenčina
 permalink: /sk/blog/tag/skladaci-kajak
 description: Zhrnutie skúseností so skladacími kajakmi. Testovanie rôznych modelov v sladkej i slanej vode. Praktické použitie skladacích kajakov na expedícii na Filipínach. Bazár skladacích kajakov.
 featured_image: /assets/img/coron2020_8.jpg
+lang: sk
+page_id: skladacie-kajaky
 ---
 Zhrnutie skúseností so skladacími kajakmi. Testovanie rôznych modelov v sladkej i slanej vode. Praktické použitie skladacích kajakov na expedícii na Filipínach. Bazár skladacích kajakov.
 

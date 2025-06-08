@@ -8,6 +8,8 @@ categories: [backa palanka, Blog, Chorvátsko, danube, donau, Dunaj, dunav, foxo
 permalink: /sk/blog/spoznavanie-srbska-na-morskom-kajaku-1-cast/
 description: 1.časť seriálu o tom ako som sa dva a pol týždňa túlal so svojim psom Foxom na morskom kajaku po Srbsku a po viac ako 500 kilometroch som sa ocitol až v Bulharsku.
 featured_image: /assets/img/P7290046.jpg
+lang: sk
+page_id: spoznavanie-srbska-na-morskom-kajaku-1-cast
 ---
 1.časť seriálu o tom ako som sa dva a pol týždňa túlal so svojim psom Foxom na morskom kajaku po Srbsku a po viac ako 500 kilometroch som sa ocitol až v Bulharsku.
 

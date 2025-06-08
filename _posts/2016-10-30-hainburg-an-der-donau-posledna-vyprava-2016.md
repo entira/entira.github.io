@@ -8,6 +8,8 @@ categories: [Dunaj, Hainburg, Kajak, morský kajak, pádlovanie, rieka, Slovenč
 permalink: /sk/blog/hainburg-an-der-donau-posledna-vyprava-2016/
 description: Tak a konečne sa to podarilo. Už na jar, keď som prvý krát začal kayakovať na Dunaji som si dal za cieľ, že raz vídem z Bratislavy až do mesta Hainburg. Vtedy mi to pripadalo priam nedosiahnuteľné.
 featured_image: /assets/img/IMG_20161030_155218.jpg
+lang: sk
+page_id: hainburg2016
 ---
 Tak a konečne sa to podarilo. Už na jar, keď som prvý krát začal kayakovať na Dunaji som si dal za cieľ, že raz vídem z Bratislavy až do mesta Hainburg. Vtedy mi to pripadalo priam nedosiahnuteľné. Akoby nestačilo, že moje kayakárske skúsenosti boli úplne minimálne, tak aj moja fyzická kondícia nenasvedčovala tomu, že by to bolo vôbec možné. Niekedy v polovici septembra klesla hladina Dunaja na toľko, že nebolo možné trénovať v Karloveskej zátoke a tak som začal chodiť na Dunaj. Postupne som predlžoval tréning až po Devín. Po dlhej dobe som našiel spolubojovníkov, ktorí berú neskorú jeseň len ako ďaľšie ročné obdobie a nie dôvod odložiť kayak do pivnice. Ako cieľ sme si dali najvýchodnejšie rakúske mesto Hainburg an der Donau s mohutnými stredovekými bránami a mestskými hradbami.
 

@@ -8,6 +8,8 @@ categories: [Blog, Bulharsko, danube, Dunaj, Kajak, Moldavsko, morský kajak, ou
 permalink: /sk/blog/zivy-dunaj/
 description: Môj posledný neprepádlovaný úsek druhej najdlhšej rieky v Európe bol zároveň najdlhším, najťažším, najzaujímavejším, či plným protikladov. Pádloval som z bulharského mesta Vidin do rumunského mesta Tulcea.
 featured_image: /assets/img/20190817_171450.jpg
+lang: sk
+page_id: zivy-dunaj
 ---
 Môj posledný neprepádlovaný úsek druhej najdlhšej rieky v Európe bol zároveň najdlhším, najťažším, najzaujímavejším, či plným protikladov. Pádloval som z bulharského mesta Vidin do rumunského mesta Tulcea. Celý trip trval 24 dní. Okrem týchto dvoch krajín som sa chvíľu plavil cez Ukrajinu či Moldavsko. Na Bulharskom úseku Dunaja som videl tie najkrajšie pláže v živote.
 

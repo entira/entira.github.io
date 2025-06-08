@@ -8,6 +8,8 @@ categories: Brijun, Chorvátsko, Jadranské more, Kajak, morský kajak, Slovenč
 permalink: /sk/blog/narodny-park-brijuni-chorvatsko-expedicia-na-morskych-kajakoch/
 description: Pôvodne sme plánovali preskúmať národný park Kornati  na Stomorských ostrovoch, avšak predpoveď počasia nevyzerala najlepšie. Silný vietor môže byť na mori a veľkých jazerách nielen veľmi nepríjemný, ale aj nebezpečný.
 featured_image: /assets/img/Jana-Samkova-DSC03644.jpg
+lang: sk
+page_id: narodny-park-brijuni-chorvatsko-expedicia-na-morskych-kajakoch
 ---
 Pôvodne sme plánovali preskúmať národný park Kornati  na Stomorských ostrovoch, avšak predpoveď počasia nevyzerala najlepšie. Silný vietor môže byť na mori a veľkých jazerách nielen veľmi nepríjemný, ale aj nebezpečný. Pre severný jadran a Istriu bola prepoveď priaznivejšia i keď s dažďom. Rozhodli sme sa to skúsiť. Vetru a dažďu sme sa síce nevyhli, ale výprava stála za to.
 

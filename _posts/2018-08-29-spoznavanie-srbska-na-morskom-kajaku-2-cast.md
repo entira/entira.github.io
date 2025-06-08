@@ -8,6 +8,8 @@ categories: [Belehrad, danube, donau, Dunaj, dunav, foxo, Hidden, kemping, Novi 
 permalink: /sk/blog/spoznavanie-srbska-na-morskom-kajaku-2-cast/
 description: 2.časť seriálu o tom ako som sa dva a pol týždňa túlal so svojim psom Foxom na morskom kajaku po Srbsku a po viac ako 500 kilometroch som sa ocitol až v Bulharsku.
 featured_image: /assets/img/P8010229.jpg
+lang: sk
+page_id: spoznavanie-srbska-na-morskom-kajaku-2-cast
 ---
 2.časť seriálu o tom ako som sa dva a pol týždňa túlal so svojim psom Foxom na morskom kajaku po Srbsku a po viac ako 500 kilometroch som sa ocitol až v Bulharsku.
 

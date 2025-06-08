@@ -8,6 +8,8 @@ categories: [chlad, Kajak, ľad, morský kajak, nízke teploty, Oblečenie, pád
 permalink: /sk/blog/kajak-a-zima/
 description: Už niekedy v októbri som si myslel, že sa na vodu sa dostanem až na jar. Bola už jednoducho zima. Veľmi rýchlo som však zistil, že sa stačí len primerane obliecť.
 featured_image: /assets/img/IMG_20170114_105226.jpg
+lang: sk
+page_id: kajak-a-zima
 ---
 Už niekedy v októbri som si myslel, že sa na vodu sa dostanem až na jar. Bola už jednoducho zima. Veľmi rýchlo som však zistil, že sa stačí len primerane obliecť. K zimnej bunde som pridal 3 mm neoprén. Nielen, že je veľmi teplý, ale v prípade pádu do ľadovej vody sa v ňom dá plávať bez rizika skorého podchadenia. Človek má dosť času na záchranu. I teploty hlboko pod bodom mrazu nepredstavujú veľký problém. Keď sa však k mrazom pridal aj silný vietor, či sneženie vložil som si do neoprénových topánok a rukavíc chemické teplo.
 

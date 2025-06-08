@@ -8,6 +8,8 @@ categories: [divoká príroda, dobrodrúžstvo, Kajak, kajak, Klátov, morský k
 permalink: /sk/blog/narodna-prirodna-rezervacia-klatovske-rameno/
 description: Minulý rok sa mi naskytla možnosť splaviť asi 2 km úsek Klátovského ramena tesne pred tým ako sa vlieva do Malého Dunaja. Je to pomaly tečúca rieka, ktorá ma zaujala tým, že je v nej kryštáľovo čistá voda. Rozhodol som sa ju preskúmať.
 featured_image: /assets/img/RIMG1229.jpg
+lang: sk
+page_id: klatovske
 ---
 Minulý rok sa mi naskytla možnosť splaviť asi 2 km úsek Klátovského ramena tesne pred tým ako sa vlieva do Malého Dunaja. Je to pomaly tečúca rieka, ktorá ma zaujala tým, že je v nej kryštáľovo čistá voda. Rozhodol som sa ju preskúmať. Zistil som, že je celá oblasť je od roku 1993 národnou prírodnou rezerváciou. Žije tu mnoho vzácnych rastlín a živočíchov. Niektoré druhy boli objavené práve tu.
 

@@ -8,6 +8,8 @@ categories: [ázia, Blog, dobrodrúžstvo, expedícia, Filipíny, kajak, Kajak, 
 permalink: /sk/blog/expedicia-na-morskych-kajakoch-coron-filipiny-2020/
 description: Od poslednej poriadnej kajakovej expedície ubehli presne 2 roky. Tak dlho trvalo, kým sa mi podarilo dať dokopy partu správne naladených ľudí, ktorí sa neboja túlať po odľahlých kútoch Zeme. Práve naopak to pre pocit toho, že naozaj žijú, jednoducho potrebujú.
 featured_image: /assets/img/philippines-title.jpg
+lang: sk
+page_id: expedicia-na-morskych-kajakoch-coron-filipiny-2020
 ---
 Od poslednej poriadnej kajakovej expedície ubehli presne 2 roky. Tak dlho trvalo, kým sa mi podarilo dať dokopy partu správne naladených ľudí, ktorí sa neboja túlať po odľahlých kútoch Zeme. Práve naopak to pre pocit toho, že naozaj žijú, jednoducho potrebujú.
 

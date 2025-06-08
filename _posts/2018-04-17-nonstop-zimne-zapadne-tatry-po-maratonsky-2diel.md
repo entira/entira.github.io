@@ -8,6 +8,8 @@ categories: [Blog, Hostia, outdoor, Slovenčina, Slovensko, tatry, turistika, Tu
 permalink: /sk/blog/nonstop-zimne-zapadne-tatry-po-maratonsky-2diel/
 description: everozápadný svah Baníkova nie je strmý, ale takmer 3000m celkového prevýšenia je už v nohách cítiť. Vďaka rozumnému, rovnomernému tempu, a len tým najnevyhnutnejším prestávkam máme super medzičasy.
 featured_image: /assets/img/DSC_8072_Fotor.jpg
+lang: sk
+page_id: nonstop-zimne-zapadne-tatry-po-maratonsky-2diel
 ---
 <h2>Vzdušný hrebeň</h2>
 

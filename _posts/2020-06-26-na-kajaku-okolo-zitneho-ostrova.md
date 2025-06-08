@@ -8,6 +8,8 @@ comments: true
 categories: [Blog, bratislava, Dunaj, Jahodná, Jelka, Kajak, kajak, Kolárovo, Komárno, Malinovo, Malý Dunaj, morský kajak, pádlovanie, Slovenčina, Váh, žitný ostrov]
 permalink: /sk/blog/na-kajaku-okolo-zitneho-ostrova/
 featured_image: '/assets/img/20200617_111142.jpg'
+lang: sk
+page_id: na-kajaku-okolo-zitneho-ostrova
 ---
 Globálna pandémia sťažila cestovanie a tak som začal rozmýšľať nad tým, kam pôjdem hľadať svoju stratenú silu, ktorú mi zobral vírus. V domácej karanténe som spolu s rodinou strávil nekonečných dva a pol mesiaca. Novým corona vírusom som sa nakazil na expedícii na Filipínach.
 

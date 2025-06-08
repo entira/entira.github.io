@@ -3,6 +3,8 @@ title: Expedition second-hand
 subtitle: Used proven equipment that can help you on your journeys.
 description: Offer used expedition equipment.
 featured_image: /images/about.jpg
+lang: en
+page_id: secondhand
 ---
 <div class="fb-share-button"
 	data-href="{{ page.url | absolute_url }}" 

@@ -8,6 +8,8 @@ categories: [adventure, danube, English, Kayak, kayak, paddling, seakayak, trip]
 permalink: /en/blog/sea-kayaking-through-three-capitals-1-planning/
 description: The end of this summer is here and in our latitude it is the last chance for an adventure in countryside with a nice weather during the day and not too cold  nights. I decided to take an advantage of months of practice on water with a sea kayak. I chose the longest river in the European Union, ...
 featured_image: /assets/img/20160806_125640-768x432.jpg
+lang: en
+page_id: capitals1
 ---
 The end of this summer is here and in our latitude it is the last chance for an adventure in countryside with a nice weather during the day and not too cold  nights. I decided to take an advantage of months of practice on water with a sea kayak. I chose the longest river in the European Union, the second longest river in Europe and the 30th longest river in the world. No need to go far away, it is our Danube. A stretch of approximately 270 kilometers connects the capitals of three neighboring countries:  Vienna, Bratislava and Budapest, Hungary. That will be our voyage.
 

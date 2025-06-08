@@ -8,6 +8,8 @@ categories: [Argo, Blog, Filipíny, folding kajak, Kajak, Nortik, príprava, skl
 permalink: /sk/blog/tazko-na-cvicisku-lahko-na-bojisku/
 description: Dlho som sa pohrával s myšlienkou robenia expedícií na odľahlé miesta Zeme prostredníctvom skladacích kajakov. Túto myšlienku som začal zhmotňovať viac ako pred rokom. V prvom rade som vyskúšal niekoľko druhov skladačiek.
 featured_image: /assets/img/20191012_163918.jpg
+lang: sk
+page_id: tazko-na-cvicisku-lahko-na-bojisku
 ---
 Dlho som sa pohrával s myšlienkou robenia expedícií na odľahlé miesta Zeme prostredníctvom skladacích kajakov. Túto myšlienku som začal zhmotňovať viac ako pred rokom. V prvom rade som vyskúšal niekoľko druhov skladačiek.
 
