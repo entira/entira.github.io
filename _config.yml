@@ -1,4 +1,5 @@
-site: Danube Kayaker Expeditions 
+site: Danube Kayaker Expeditions
+lang: en
 
 url: 
 baseurl: 
@@ -61,10 +62,6 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-polyglot
-
-languages: ["en", "sk"]
-default_lang: en
 
 paginate: 6
 paginate_path: "/sk/blog/page:num/"
