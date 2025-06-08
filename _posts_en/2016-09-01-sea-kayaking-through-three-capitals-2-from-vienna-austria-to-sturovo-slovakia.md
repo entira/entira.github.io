@@ -8,6 +8,8 @@ categories: [adventure, austria, Budapešť, coutryside, English, hungary, Kayak
 permalink: /en/blog/sea-kayaking-through-three-capitals-2-from-vienna-austria-to-sturovo-slovakia/
 description: And off we go. We met shortly before 8 am in Karloveská shipyard from where we went to the Vienna port by car. As usual, the biggest problem was to pack up for the ship. When it seems you have a lot of free storage space, you have probably forgotten something.
 featured_image: /assets/img/RIMG0807.jpg
+lang: en
+page_id: capitals2
 ---
 And off we go. We met shortly before 8 am in Karloveská shipyard from where we went to the Vienna port by car. As usual, the biggest problem was to pack up for the ship. When it seems you have a lot of free storage space, you have probably forgotten something. The last time I forgot my tent, sleeping bag, sleeping pad and also shoes. A majority of packed things always stays unpacked, so it was not so disastrous. The stairs led directly to the water so the boarding was pleasant.
 

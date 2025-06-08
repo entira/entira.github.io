@@ -8,6 +8,8 @@ categories: [adventure, austria, bratislava, camping, countryside, danube, Engli
 permalink: /en/blog/over-austria-in-10-days/
 description: In one week I am going to take a 10 day sea kayak tour from the German city Passau to the capital of Slovakia – Bratislava. The journey which is 361 kilometers long starts under the dam on the river Inn, then it continues through the whole Austrian part of the river Danube and next to the Devín castle it crosses the Slovak border.
 featured_image: /assets/img/danube-map-austria.jpg
+lang: en
+page_id: overaustria
 ---
 So here we go.
 

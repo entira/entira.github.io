@@ -8,6 +8,8 @@ categories: [ázia, Blog, Coron, dobrodrúžstvo, expedícia, Filipíny, Kajak, 
 permalink: /sk/blog/4-expedicia-na-morskych-kajakoch-coron-bay-filipiny-2020-vodny-svet-1/
 description: Do Coron port sme dorazili hodinku pred západom Slnka. V prístavnom meste stretávame prvých turistov. Ako k turistom sa tu k nám ale aj chovajú a na jednu motorku sa už podľa nich nezmestíme.
 featured_image: /assets/img/coron2020_11.jpg
+lang: sk
+page_id: 4-expedicia-na-morskych-kajakoch-coron-bay-filipiny-2020-vodny-svet-1
 ---
 Do Coron port sme dorazili hodinku pred západom Slnka. V prístavnom meste stretávame prvých turistov. Ako k turistom sa tu k nám ale aj chovajú a na jednu motorku sa už podľa nich nezmestíme. Potrebovali sme čo najskôr nájsť miesto, kde prespíme a tak sa vezieme ako celebrity na dvoch. Ideálne pri vode a s priestorom na poskladanie kajakov. To, že prístav navštevujú aj turisti, má aj svetlé stránky. Je vrchol sezóny, no ľudí tu nie je veľa.
 

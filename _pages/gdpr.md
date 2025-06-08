@@ -3,6 +3,8 @@ title: GDRP
 subtitle: Privacy Policy. 
 description: Privacy Policy.
 featured_image: /images/contact.jpg
+lang: en
+page_id: gdpr
 ---
 
 # Privacy Policy for danubekayaker.com

@@ -8,6 +8,8 @@ categories: [divoká príroda, dobrodrúžstvo, Hlohovec, kajak, Kajak, Kolárov
 permalink: /sk/blog/3-dni-po-najdlhsej-slovenskej-rieke-vah/
 description: Narodil som sa v Hlohovci. Prežil som tam väčšinu detstva a mladosti. Asi preto mám k našej najdlhšej rieke osobitý vzťah. Ako malý chlapec som sa tam rád túlal.
 featured_image: /assets/img/P8184272.jpg
+lang: sk
+page_id: 3-dni-po-najdlhsej-slovenskej-rieke-vah
 ---
 Narodil som sa v Hlohovci. Prežil som tam väčšinu detstva a mladosti. Asi preto mám k našej najdlhšej rieke osobitý vzťah. Ako malý chlapec som sa tam rád túlal. Už vtedy to boli pre mňa veľké dobrodrúžstva. Musel som prejsť peši cez celé mesto a vypočítať si návrat tak, aby nikto nič nezistil.  Bola to pre mňa zakázaná zóna. Neskôr, keď som sa naučil jazdiť na horskom bicykli, tak sa môj akčný rádius rapídne zvýšil. Stále bolo a aj je čo objavovať. Keď som začal jazdiť na kajaku, tak mi stále vŕtalo hlavou, či by sa nedal splaviť práve Váh. Minulú jeseň som dostal pozvanie od Klubu slovenských turistov, či sa nepridám s nimi na splav Váhu z Trenčína do Piešťan. Zasvietili mi oči a bez váhania som prikývol. Priezračná voda plná rýb. Nádherná príroda. Výnarali sa mi spomienky na detstvo. Povedal som si, že sa na Váh vrátim a preskúmam ho až po jeho ústie v Komárne.
 

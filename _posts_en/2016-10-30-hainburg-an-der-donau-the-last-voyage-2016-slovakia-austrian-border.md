@@ -8,6 +8,8 @@ categories: [bratislava, clouds, danube, English, Hainburg, Kayak, kayak, paddli
 permalink: /en/blog/hainburg-an-der-donau-the-last-voyage-2016-slovakia-austrian-border/
 description: I finally managed it. In the spring when I started to kayak on Danube I said to myself that one day I would leave Bratislava and get all the way to Hainburg. Back then I found it really impossible. My kayaking skills were very poor and so were my physical abilities.
 featured_image: /assets/img/IMG_20161030_140402.jpg
+lang: en
+page_id: hainburg2016
 ---
 I finally managed it. In the spring when I started to kayak on Danube I said to myself that one day I would leave Bratislava and get all the way to Hainburg. Back then I found it really impossible. My kayaking skills were very poor and so were my physical abilities. Somewhere in the middle of September the level dropped so much that it was not possible to practice in Karloveská bay and this was why I started to practice on Danube. Continuously I started to extend my practice sessions up to Devín castle. After a long time I found fellow-fighters who think of late autumn as another season, not a reason why to store a kayak until the next season comes.
 

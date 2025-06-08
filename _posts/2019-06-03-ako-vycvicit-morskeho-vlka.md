@@ -8,6 +8,8 @@ categories: [Blog, foxo, foxterrier, Kajak, kajak, morský kajak, pes, Slovenči
 permalink: /sk/blog/ako-vycvicit-morskeho-vlka/
 description: Vždy som chcel mať psa, ktorý by ma sprevádzal mojimi potulkami prírodou. Stále som bol však pracovne veľmi vyťažený a voľné chvíle som trávil na vode. Svoj workoholizmus som síce radikálne obmedzil a viac sa sústredil na zveľaďovanie svojho zdravia a kondície. Samozrejme opäť na vode.
 featured_image: /assets/img/IMG_2289.jpg
+lang: sk
+page_id: ako-vycvicit-morskeho-vlka
 ---
 Vždy som chcel mať psa, ktorý by ma sprevádzal mojimi potulkami prírodou. Stále som bol však pracovne veľmi vyťažený a voľné chvíle som trávil na vode. Svoj workoholizmus som síce radikálne obmedzil a viac sa sústredil na zveľaďovanie svojho zdravia a kondície. Samozrejme opäť na vode. Výcvik psa je časovo veľmi náročný a prvé mesiace to musí byť denná rutina. Napadlo ma, že pes menšieho plemena by sa mohol stať mojím cestovateľským spoločníkom. Vždy som si myslel, že malé psy sa nedajú vycvičiť rovnako jednoducho. Navyše môj psí parťák musí byť vytrvalý, nebojácny, outdoorovo naladený pes, ktorý sa nebude báť vody.
 

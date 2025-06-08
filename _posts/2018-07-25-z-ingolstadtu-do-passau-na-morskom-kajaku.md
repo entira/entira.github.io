@@ -8,6 +8,8 @@ categories: [Blog, foxo, Ingolstadt, Kajak, morský kajak, Nemecko, outdoor, pá
 permalink: /sk/blog/z-ingolstadtu-do-passau-na-morskom-kajaku/
 description: V rámci môjho tohto ročného cieľa splaviť na morskom kajaku za 20 dní celé Srbsko som hľadal miesto na poriadny tréning.
 featured_image: /assets/img/P7051675.jpg
+lang: sk
+page_id: z-ingolstadtu-do-passau-na-morskom-kajaku
 ---
 V rámci môjho tohto ročného cieľa splaviť na morskom kajaku za 20 dní celé Srbsko som hľadal miesto na poriadny tréning. Nedávno som si s parťákom Tomášom otvoril obchod s kajakmi a vybavením a tak mám možnosť používať to najmodernejšie čo trh ponúka. Každý kus vybavenia sa však treba naučiť používať a samozrejme aj vyskúšať v reálnych podmienkach. Nestačí teda len trénovať s “prázdnym kajakom” v Karloveskej zátoke, ale vyraziť niekde do terénu. Dostal som ponuku pripojiť sa k parte vodákov v Chorvátsku avšak na môj tréning by to nebolo dostačujúce a keď sa ozval kamoš, či nejdeme niekam na vodu navrhol som splaviť úsek rieky Dunaj medzi nemeckými mestami Ingolstadt a Passau. Okrem toho, že to bol môj posledný nesplavený úsek horného Dunaja, tešil som sa, že môžem zobrať aj psa Foxa, ktorý takisto potrebuje trénovať.
 

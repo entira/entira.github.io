@@ -8,6 +8,8 @@ categories: [Blog, Dunaj, Kajak, kajak, Nemecko, outdoor, pádlovanie, Rakúsko,
 permalink: /sk/blog/passau-linz-a-spat-200-riecnych-kilometrov-za-vikend/
 description: Toto leto sa mi podarilo nakaziť turistikou na morskom kajaku aj moju manželku. Od našej poslednej spoločnej plavby na kajaku v Benátkach ubehol už viac ako mesiac. Tentokrát sme sa rozhodli splaviť môj obľúbený úsek Dunaja od nemeckého mesta Passau do rakúskeho Linzu.
 featured_image: /assets/img/P6231153.jpg
+lang: sk
+page_id: passau-linz-a-spat-200-riecnych-kilometrov-za-vikend
 ---
 Toto leto sa mi podarilo nakaziť turistikou na morskom kajaku aj moju manželku. Od našej poslednej spoločnej plavby na kajaku v Benátkach ubehol už viac ako mesiac. Tentokrát sme sa rozhodli splaviť môj obľúbený úsek Dunaja od nemeckého mesta Passau do rakúskeho Linzu. V piatok poobede sme vyrazili do Passau, tak aby sme stihli ešte prechádzku po tomto veľmi peknom mestečku. Na jednom mieste sa stretávajú tri rieky: Inn, Dunaj a Ilz. Manželka nechápala prečo sa rieke od tohoto sútoku hovorí práve Dunaj, kedže rieka Inn je oveľa vodnatejšia a navyše farba rieky sa viac podobá svetlejšej rieke Inn.
 

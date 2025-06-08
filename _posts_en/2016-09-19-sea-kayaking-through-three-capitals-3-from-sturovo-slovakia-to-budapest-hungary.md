@@ -8,6 +8,8 @@ categories: [adventure, Budapešť, camping, clouds, countryside, danube, Englis
 permalink: /en/blog/sea-kayaking-through-three-capitals-3-from-sturovo-slovakia-to-budapest-hungary/
 description: It did not take a long time until I finished a tour from Vienna to Budapest. My kayak buddy Martin arranged a funny transport of our ships to Štúrovo. Roof kayak holders are for kids! We used a truck. :)
 featured_image: /assets/img/RIMG0944.jpg
+lang: en
+page_id: capitals3
 ---
 It did not take a long time until I finished a tour from Vienna to Budapest. My kayak buddy Martin arranged a funny transport of our ships to Štúrovo. Roof kayak holders are for kids! We used a truck. :)
 

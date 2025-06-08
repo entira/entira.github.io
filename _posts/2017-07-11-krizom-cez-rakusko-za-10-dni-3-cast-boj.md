@@ -8,6 +8,8 @@ categories: [bratislava, divoká príroda, Dunaj, Kajak, morský kajak, mraky, o
 permalink: /sk/blog/krizom-cez-rakusko-za-10-dni-3-cast-boj/
 description: Na ceste z Passau do Bratislavy som nemusel na nikoho čakať, ani nikto nemusel čakať na mňa. To je výhoda, keď ide človek sám. Okrem toho, že som mal čas fotiť novým fotoaparátom, som mohol zastaviť kdekoľvek a kedykoľvek ma niečo zaujalo. Preto aj tento blog post je poňatý viac menej ako fotoblog.
 featured_image: /assets/img/nakladanie.jpg
+lang: sk
+page_id: krizom-cez-rakusko-za-10-dni-3-cast-boj
 ---
 Na ceste z Passau do Bratislavy som nemusel na nikoho čakať, ani nikto nemusel čakať na mňa. To je výhoda, keď ide človek sám. Okrem toho, že som mal čas fotiť novým fotoaparátom, som mohol zastaviť kdekoľvek a kedykoľvek ma niečo zaujalo. Preto aj tento blog post je poňatý viac menej ako fotoblog.
 

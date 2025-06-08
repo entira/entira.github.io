@@ -8,6 +8,8 @@ categories: [Blog, Budapešť, Dunaj, dvojkajak, jar, Kajak, morský kajak, Ostr
 permalink: /sk/blog/ostihom-budpest/
 description: Nedávno som zobral moju manželku Luciu prvýkrát na kajak. Autom sme sa ráno nechali vyviesť 30 km nad Viedeň k priehrade Greifenstein. Na dvojkajaku sme prešli 75 km dlhý úsek rieky Dunaj, vrátane mesta Viedeň, národného parku Donau Auen až do Bratislavy.
 featured_image: /assets/img/P4289652.jpg
+lang: sk
+page_id: ostihom-budpest
 ---
 <h2>Pekné plány</h2>
 

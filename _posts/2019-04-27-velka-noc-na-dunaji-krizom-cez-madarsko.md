@@ -8,6 +8,8 @@ categories: [Blog, Budapešť, Dunaj, jar, kajak, Maďarsko, moháč, morský ka
 permalink: /sk/blog/velka-noc-na-dunaji-krizom-cez-madarsko/
 description: Túto zimu som bol viackrát prechladnutý, takže som mal namiesto pádlovania možnosť viacej premýšľať, ako využijem novú sezónu. Rád by som tento rok ukončil moju púť Dunajom a preto výber ďalšej túry padol na jeden z chýbajúcich úsekov Budapešť - Moháč.
 featured_image: /assets/img/P4222311.jpg
+lang: sk
+page_id: velka-noc-na-dunaji-krizom-cez-madarsko
 ---
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1rKAMBkLuR566EdHTPx5qPOAL5dvqp7uu" width="640" height="480"></iframe>
 

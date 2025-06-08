@@ -8,6 +8,8 @@ categories: [cestovanie, Fínsko, Helsinky, Kajak, kajak, mesto, morský kajak, 
 permalink: /sk/blog/finsko-krajina-milovnikov-prirody/
 description: Začalo to pozvaním na rodinnú návštevu už veľmi dávno. Pre nedávny prírastok do rodiny sme si však na cestu lietadlom museli chvíľu počkať. Štandardne píšem o mojich cestách na kajaku, no v tomto prípade som sa rozhodol napísať o Fínsku ako takom.
 featured_image: /assets/img/P9085614.jpg
+lang: sk
+page_id: finsko-krajina-milovnikov-prirody
 ---
 Začalo to pozvaním na rodinnú návštevu už veľmi dávno. Pre nedávny prírastok do rodiny sme si však na cestu lietadlom museli chvíľu počkať. Štandardne píšem o mojich cestách na kajaku, no v tomto prípade som sa rozhodol napísať o Fínsku ako takom.
 

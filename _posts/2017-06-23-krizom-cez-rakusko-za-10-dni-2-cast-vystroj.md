@@ -8,6 +8,8 @@ categories: [bratislava, dobrodrúžstvo, Dunaj, Kajak, kajk, morský kajak, out
 permalink: /sk/blog/krizom-cez-rakusko-za-10-dni-2-cast-vystroj/
 description: Od odchodu ma delí už len pár málo posledných dní. Začal som teda kontrolovať, či mám všetko čo budem potrebovať.
 featured_image: /assets/img/OI000092.jpg
+lang: sk
+page_id: krizom-cez-rakusko-za-10-dni-2-cast-vystroj
 ---
 Od odchodu ma delí už len pár málo posledných dní. Začal som teda kontrolovať, či mám všetko čo budem potrebovať. Podobných i keď kratších túr som už absolvoval niekoľko, avšak, keď ide človek sám, nemôže sa spoliehať na nikoho iného. Takže, keď bude napríklad tri dni pršať, nebudem môcť niekomu inému vliezť do stanu a podobne. Rozhodol som sa, že si spravím prvý krát v živote zoznam toho, čo si beriem zo sebou. Hneď z prvej verzie sa mi urobilo nevoľno. Začal som teda škrtať a optimalizovať. Kedže som s tým zabil nejakú tú hodinku, tak sa s vami o to podelím.
 

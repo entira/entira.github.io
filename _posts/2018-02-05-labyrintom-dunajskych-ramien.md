@@ -8,6 +8,8 @@ categories: [Dunaj, Dunajské ramená, Kajak, Maďarsko, pádlovanie, Rakúsko, 
 permalink: /sk/blog/labyrintom-dunajskych-ramien/
 description: Po dlhšom čase sa mi opäť podarilo niekoho ukecať na pádlovanie s táborením v prírode. Kamoš Martin si zaobstaral zimný spacák a sám sa prihlásil.
 featured_image: /assets/img/20180203_111604.jpg
+lang: sk
+page_id: labyrintom-dunajskych-ramien
 ---
 Po dlhšom čase sa mi opäť podarilo niekoho ukecať na pádlovanie s táborením v prírode. Kamoš Martin si zaobstaral zimný spacák a sám sa prihlásil. Pri poslednom pádlovaní v sústave dunajských ramien tiahnucich sa pozdĺž slovenskej štátnej hranice v Maďarsku som si povedal, že sa tam musím čo najskôr vrátiť. Bol som tam už niekoľkokrát, hlavne behom leta. Je tam však veľa ľudí. Nič pre mňa. Cez zimu je to úplne naopak. Žiadni ľudia na kilometre ďaleko. Vo vzduchu sa nesú len zvuky prírody, predovšetkým vtáctva. Pobehuje tu množstvo divej zvery a tak nie je nič výnimočné stretnúť jelene, diviaky, líšku, či orliakov morských. Vodné vtáctvo nielen z okolia sa tu zhromažďuje v nekonečných kolóniách. Nespí ani bobor, ktorý po sebe zanecháva prehryzené stromy. Toto som si naozaj nemohol nechať ujsť.
 

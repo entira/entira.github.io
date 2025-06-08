@@ -3,6 +3,8 @@ title: Expedičný bazár
 subtitle: Použité osvedčené vybavenie, ktoré ti môže pomôcť na tvojich cestách.
 description: Ponuka použitého expedičného vybavenia.
 featured_image: /images/about.jpg
+lang: sk
+page_id: expedicnybazar
 ---
 <div class="fb-share-button"
 	data-href="{{ page.url | absolute_url }}" 

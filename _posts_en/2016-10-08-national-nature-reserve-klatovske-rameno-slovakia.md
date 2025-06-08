@@ -8,6 +8,8 @@ categories: [adventure, countryside, English, Kayak, kayak, life, Nature, paddli
 permalink: /en/blog/national-nature-reserve-klatovske-rameno-slovakia/
 description: Last year I had the opportunity to float about a 2 km stretch of Klátovské rameno just before it flows into the Little Danube. It is a slow flowing river which impressed me by crystal clear water in it. I decided to explore it. I found that the entire area had been a national nature reserve since 1993.
 featured_image: /assets/img/RIMG1229.jpg
+lang: en
+page_id: klatovske
 ---
 Last year I had the opportunity to float about a 2 km stretch of Klátovské rameno just before it flows into the Little Danube. It is a slow flowing river which impressed me by crystal clear water in it. I decided to explore it. I found that the entire area had been a national nature reserve since 1993. It is a home to  many rare plants and animals. Some species have been discovered right here
 

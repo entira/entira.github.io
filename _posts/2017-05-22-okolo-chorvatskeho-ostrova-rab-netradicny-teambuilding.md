@@ -8,6 +8,8 @@ categories: [Jadranské more, Kajak, morský kajak, ostrov Rab, pádlovanie, Slo
 permalink: /sk/blog/okolo-chorvatskeho-ostrova-rab-netradicny-teambuilding/
 description: Asi pred dvoma mesiacmi som po našej firme Erigones rozposlal obežník, že som zorganizoval teambuilding na morských kajakoch v Chorvátsku s nocovaním na opustených ostrovoch v divokej prírode. Reakcie boli rôzne. Väčšinou mali ľudia strach z niečoho neznámeho a mnohí z nich sa dokonca snažili vycúvať.
 featured_image: /assets/img/IMG_20170520_181935.jpg
+lang: sk
+page_id: okolo-chorvatskeho-ostrova-rab-netradicny-teambuilding
 ---
 Asi pred dvoma mesiacmi som po našej firme Erigones rozposlal obežník, že som zorganizoval teambuilding na morských kajakoch v Chorvátsku s nocovaním na opustených ostrovoch v divokej prírode. Reakcie boli rôzne. Väčšinou mali ľudia strach z niečoho neznámeho a mnohí z nich sa dokonca snažili vycúvať. Jeden kolega ma dokonca prirovnal k Fantozziho šéfovi, ktorí nútil svojich zamestnancov do bicyklových túr, kde išlo o život. Pokúsil som sa im teda podrobnejšie vysvetliť ako to s kajakom na mori vyzerá. Tí,  ktorí s kajakom nemali žiadnu skúsenosť, mali možnosť vyskúšať si ho na Dunaji. Uvideli, že ani balenie na niekoľko dní nie je taký veľký problém ako na prvý pohľad vyzerá. Spoznali aj nášho sprievodcu Tomáša z <a href="http://www.vodackecentrum.sk/">Vodáckeho centra</a>, ktoré nam zapožičalo lode a zabezpečilo dopravu. Strach vystriedala zvedavosť a túžba po dobrodrúžstve.
 

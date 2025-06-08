@@ -8,6 +8,8 @@ categories: [Jahodná, Jelka, Kajak, ľad, morský kajak, pádlovanie, rieka, Sl
 permalink: /sk/blog/zimne-padlovanie-na-malom-dunaji-80-km-z-jelky-do-kolarova/
 description: Posledné dva mesiace sa teploty pohybovali pod bodom mrazu, a tak moje výlety na vodu boli vždy maximálne niekoľko hodín dlhé. Cez zimu trénujem na Malom Dunaji.
 featured_image: /assets/img/IMG_20170218_133318.jpg
+lang: sk
+page_id: winterdanube
 ---
 Posledné dva mesiace sa teploty pohybovali pod bodom mrazu, a tak moje výlety na vodu boli vždy maximálne niekoľko hodín dlhé. Cez zimu trénujem na Malom Dunaji. Robím si kolečko Zálesie, Nová Dedinka a späť. Je to môj obľúbený úsek. Aj počas najväčších mrazov je tu rušno. Divoká príroda nespí ani cez zimu. Práve naopak zver bojuje o holé prežitie.
 

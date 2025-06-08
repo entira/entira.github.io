@@ -8,6 +8,8 @@ categories: [danube, donau, Dunaj, dunav, foxo, Hidden, kemping, outdoor, pádlo
 permalink: /sk/blog/spoznavanie-srbska-na-morskom-kajaku-4-cast/
 description: 4.časť seriálu o tom ako som sa dva a pol týždňa túlal so svojim psom Foxom na morskom kajaku po Srbsku a po viac ako 500 kilometroch som sa ocitol až v Bulharsku.
 featured_image: /assets/img/IMG_20180804_061402.jpg
+lang: sk
+page_id: spoznavanie-srbska-na-morskom-kajaku-4-cast
 ---
 4.časť seriálu o tom ako som sa dva a pol týždňa túlal so svojim psom Foxom na morskom kajaku po Srbsku a po viac ako 500 kilometroch som sa ocitol až v Bulharsku.
 
